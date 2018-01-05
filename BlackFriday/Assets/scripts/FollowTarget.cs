@@ -19,10 +19,22 @@ public class FollowTarget : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        
+	}
+
+    private void FixedUpdate()
+    {
         if (target_follow_)
         {
-            transform.position = Vector3.Lerp(transform.position, target_follow_.transform.position + offset_, Time.deltaTime * 5.0f);
-            transform.LookAt(target_follow_.transform);
+            transform.position = Vector3.Lerp(transform.position, target_follow_.transform.position + offset_, Time.deltaTime * 2.0f);
+            Quaternion rotation_new = Quaternion.LookRotation((target_follow_.transform.position) - transform.position);
+            transform.rotation = Quaternion.Lerp(transform.rotation, rotation_new, Time.deltaTime * 2.0f);
+            //transform.LookAt(target_follow_.transform);
         }
-	}
+    }
+
+    private void LateUpdate()
+    {
+        
+    }
 }

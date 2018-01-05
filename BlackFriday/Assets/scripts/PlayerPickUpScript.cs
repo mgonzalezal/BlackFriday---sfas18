@@ -51,13 +51,41 @@ public class PlayerPickUpScript : MonoBehaviour {
                 pick_up_parent_.enabled = false;
             }
         }
-
         if (object_picked_)
         {
-            object_picked_.transform.position = Vector3.Lerp(object_picked_.transform.position, pick_up_point_.transform.position, Time.deltaTime * 10.0f);
-            object_picked_.transform.localRotation = Quaternion.Lerp(object_picked_.transform.localRotation, pick_up_point_.transform.localRotation, Time.deltaTime * 10.0f);
+            if (Input.GetButtonDown("Drop"))
+            {
+                DropObject();
+            }
         }
 	}
+
+    public void DropObject()
+    {
+        if (object_picked_)
+        {
+            object_script_.Drop();
+            oject_pick_ = null;
+            object_script_ = null;
+            resitance_left_ = 0.0f;
+            pick_up_parent_.enabled = false;
+            object_picked_ = null;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        if (object_picked_)
+        {
+            object_picked_.GetComponent<Rigidbody>().transform.position = Vector3.Lerp(object_picked_.transform.position, pick_up_point_.transform.position, Time.deltaTime * 10.0f);
+            object_picked_.GetComponent<Rigidbody>().transform.localRotation = Quaternion.Lerp(object_picked_.transform.localRotation, pick_up_point_.transform.localRotation, Time.deltaTime * 10.0f);
+        }
+    }
+
+    private void LateUpdate()
+    {
+        
+    }
 
     private void OnTriggerEnter(Collider other)
     {
