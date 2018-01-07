@@ -60,16 +60,21 @@ public class PlayerPickUpScript : MonoBehaviour {
         }
 	}
 
+    void ClearReferencesObject()
+    {
+        oject_pick_ = null;
+        object_script_ = null;
+        resitance_left_ = 0.0f;
+        pick_up_parent_.enabled = false;
+        object_picked_ = null;
+    }
+
     public void DropObject()
     {
         if (object_picked_)
         {
             object_script_.Drop();
-            oject_pick_ = null;
-            object_script_ = null;
-            resitance_left_ = 0.0f;
-            pick_up_parent_.enabled = false;
-            object_picked_ = null;
+            ClearReferencesObject();
         }
     }
 
@@ -82,9 +87,17 @@ public class PlayerPickUpScript : MonoBehaviour {
         }
     }
 
-    private void LateUpdate()
+    public GameObject CheckoutItem()
     {
-        
+        if (object_picked_)
+        {
+            GameObject tmp = object_picked_;
+            object_script_.CheckOut();
+            ClearReferencesObject();
+            return tmp;
+        }
+
+        return null;
     }
 
     private void OnTriggerEnter(Collider other)
