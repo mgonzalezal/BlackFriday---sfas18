@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: 11fb34abff85a6e4dbaec999e322d0ad
+timeCreated: 1469086373
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Carpet
+    100002: Carpet_2
+    100004: Carpet_3
+    100006: Ceiling
+    100008: Columns
+    100010: Columns_2
+    100012: Columns_Room
+    100014: Cube
+    100016: Decoration
+    100018: Door_Left
+    100020: Door_left
+    100022: Door_Left_2
+    100024: Door_left_2
+    100026: Door_Left_3
+    100028: Door_Left_4
+    100030: Door_left_Glass
+    100032: Door_left_Glass_2
+    100034: Door_Right
+    100036: Door_right
+    100038: Door_Right_2
+    100040: Door_right_2
+    100042: Door_Right_3
+    100044: Door_Right_4
+    100046: Door_right_Glass
+    100048: Door_right_Glass_2
+    100050: DoorFrame
+    100052: DoorFrame_1
+    100054: DoorFrame_2
+    100056: DoorFrame_3
+    100058: DoorFrames
+    100060: DoorKnob_Left
+    100062: DoorKnob_Left_2
+    100064: DoorKnob_Left_3
+    100066: DoorKnob_Left_4
+    100068: DoorKnob_Right
+    100070: DoorKnob_Right_2
+    100072: DoorKnob_Right_3
+    100074: DoorKnob_Right_4
+    100076: DoorLeft
+    100078: DoorLeft_2
+    100080: DoorLeft_3
+    100082: DoorLeft_4
+    100084: DoorRight
+    100086: DoorRight_2
+    100088: DoorRight_3
+    100090: DoorRight_4
+    100092: Doors
+    100094: Escalator_left
+    100096: Escalator_right
+    100098: External_facing
+    100100: FirstFloor
+    100102: Floor
+    100104: Frame
+    100106: Frame_2
+    100108: Frame_3
+    100110: Frame_4
+    100112: FrameGlass
+    100114: FrameGlass_2
+    100116: FrameGlass_3
+    100118: FrameGlass_4
+    100120: FrontWall
+    100122: FrontWall_1
+    100124: FrontWall_1_2
+    100126: FrontWall_1_2_1
+    100128: FrontWall_2
+    100130: GlassDoor
+    100132: GlassDoor_1
+    100134: GlassDoor_2
+    100136: GlassDoor_3
+    100138: GlassDoors
+    100140: Inside
+    100142: Ladder
+    100144: Ladder_2
+    100146: Lamp_back
+    100148: Lamp_front
+    100150: Lamp_furniture
+    100152: Lamp_grocery
+    100154: Lamp_home
+    100156: Lamp_Left
+    100158: Lamp_Right
+    100160: Lamp_secodLeft
+    100162: Lamp_secondBottom
+    100164: Lamp_secondFront
+    100166: Lamp_secondRight
+    100168: Lamp_Souvenir
+    100170: Lamp_WC
+    100172: Lamp_WC_1
+    100174: Lamps
+    100176: LeftDoor
+    100178: LeftDoor_2
+    100180: LeftMainDoor
+    100182: LeftWall
+    100184: Lights
+    100186: MainDoorFrame
+    100188: Outside
+    100190: Pillar
+    100192: Rails
+    100194: Rails_2
+    100196: RightDoor
+    100198: RightDoor_2
+    100200: RightMainDoor
+    100202: RightWall
+    100204: RightWall_2
+    100206: RightWall_2_1
+    100208: SecondCeiling
+    100210: SecondFloor
+    100212: SecondFloor_2
+    100214: SecondWall
+    100216: Signboard
+    100218: signboard
+    100220: signboard_2
+    100222: Signboard_Support_Beams
+    100224: Statue
+    100226: Statue_2
+    100228: StatueBlock
+    100230: step_1
+    100232: step_10
+    100234: step_10_2
+    100236: step_11
+    100238: step_11_2
+    100240: step_12
+    100242: step_12_2
+    100244: step_13
+    100246: step_13_2
+    100248: step_14
+    100250: step_14_2
+    100252: step_15
+    100254: step_15_2
+    100256: step_16
+    100258: step_16_2
+    100260: step_17
+    100262: step_17_2
+    100264: step_18
+    100266: step_18_2
+    100268: step_19
+    100270: step_19_2
+    100272: step_1_2
+    100274: step_2
+    100276: step_20
+    100278: step_20_2
+    100280: step_21
+    100282: step_21_2
+    100284: step_22
+    100286: step_22_2
+    100288: step_23
+    100290: step_23_2
+    100292: step_24
+    100294: step_24_2
+    100296: step_25
+    100298: step_25_2
+    100300: step_26
+    100302: step_26_2
+    100304: step_27
+    100306: step_27_2
+    100308: step_28
+    100310: step_28_2
+    100312: step_29
+    100314: step_29_2
+    100316: step_2_2
+    100318: step_3
+    100320: step_3_2
+    100322: step_4
+    100324: step_4_2
+    100326: step_5
+    100328: step_5_2
+    100330: step_6
+    100332: step_6_2
+    100334: step_7
+    100336: step_7_2
+    100338: step_8
+    100340: step_8_2
+    100342: step_9
+    100344: step_9_2
+    100346: Symmetry
+    100348: //RootNode
+    100350: Title
+    100352: Title_Support_Beams
+    100354: ToPBevel
+    100356: ToPBevel_1
+    100358: WallBack
+    100360: Walls
+    100362: WCDoor_Left
+    100364: WCDoor_Right
+    100366: WCFrames
+    100368: WCWalls
+    100370: WindowFrame_Left
+    100372: WindowFrame_Right
+    100374: WindowGlass_Left
+    100376: WindowGlass_Right
+    100378: Windows
+    400000: Carpet
+    400002: Carpet_2
+    400004: Carpet_3
+    400006: Ceiling
+    400008: Columns
+    400010: Columns_2
+    400012: Columns_Room
+    400014: Cube
+    400016: Decoration
+    400018: Door_Left
+    400020: Door_left
+    400022: Door_Left_2
+    400024: Door_left_2
+    400026: Door_Left_3
+    400028: Door_Left_4
+    400030: Door_left_Glass
+    400032: Door_left_Glass_2
+    400034: Door_Right
+    400036: Door_right
+    400038: Door_Right_2
+    400040: Door_right_2
+    400042: Door_Right_3
+    400044: Door_Right_4
+    400046: Door_right_Glass
+    400048: Door_right_Glass_2
+    400050: DoorFrame
+    400052: DoorFrame_1
+    400054: DoorFrame_2
+    400056: DoorFrame_3
+    400058: DoorFrames
+    400060: DoorKnob_Left
+    400062: DoorKnob_Left_2
+    400064: DoorKnob_Left_3
+    400066: DoorKnob_Left_4
+    400068: DoorKnob_Right
+    400070: DoorKnob_Right_2
+    400072: DoorKnob_Right_3
+    400074: DoorKnob_Right_4
+    400076: DoorLeft
+    400078: DoorLeft_2
+    400080: DoorLeft_3
+    400082: DoorLeft_4
+    400084: DoorRight
+    400086: DoorRight_2
+    400088: DoorRight_3
+    400090: DoorRight_4
+    400092: Doors
+    400094: Escalator_left
+    400096: Escalator_right
+    400098: External_facing
+    400100: FirstFloor
+    400102: Floor
+    400104: Frame
+    400106: Frame_2
+    400108: Frame_3
+    400110: Frame_4
+    400112: FrameGlass
+    400114: FrameGlass_2
+    400116: FrameGlass_3
+    400118: FrameGlass_4
+    400120: FrontWall
+    400122: FrontWall_1
+    400124: FrontWall_1_2
+    400126: FrontWall_1_2_1
+    400128: FrontWall_2
+    400130: GlassDoor
+    400132: GlassDoor_1
+    400134: GlassDoor_2
+    400136: GlassDoor_3
+    400138: GlassDoors
+    400140: Inside
+    400142: Ladder
+    400144: Ladder_2
+    400146: Lamp_back
+    400148: Lamp_front
+    400150: Lamp_furniture
+    400152: Lamp_grocery
+    400154: Lamp_home
+    400156: Lamp_Left
+    400158: Lamp_Right
+    400160: Lamp_secodLeft
+    400162: Lamp_secondBottom
+    400164: Lamp_secondFront
+    400166: Lamp_secondRight
+    400168: Lamp_Souvenir
+    400170: Lamp_WC
+    400172: Lamp_WC_1
+    400174: Lamps
+    400176: LeftDoor
+    400178: LeftDoor_2
+    400180: LeftMainDoor
+    400182: LeftWall
+    400184: Lights
+    400186: MainDoorFrame
+    400188: Outside
+    400190: Pillar
+    400192: Rails
+    400194: Rails_2
+    400196: RightDoor
+    400198: RightDoor_2
+    400200: RightMainDoor
+    400202: RightWall
+    400204: RightWall_2
+    400206: RightWall_2_1
+    400208: SecondCeiling
+    400210: SecondFloor
+    400212: SecondFloor_2
+    400214: SecondWall
+    400216: Signboard
+    400218: signboard
+    400220: signboard_2
+    400222: Signboard_Support_Beams
+    400224: Statue
+    400226: Statue_2
+    400228: StatueBlock
+    400230: step_1
+    400232: step_10
+    400234: step_10_2
+    400236: step_11
+    400238: step_11_2
+    400240: step_12
+    400242: step_12_2
+    400244: step_13
+    400246: step_13_2
+    400248: step_14
+    400250: step_14_2
+    400252: step_15
+    400254: step_15_2
+    400256: step_16
+    400258: step_16_2
+    400260: step_17
+    400262: step_17_2
+    400264: step_18
+    400266: step_18_2
+    400268: step_19
+    400270: step_19_2
+    400272: step_1_2
+    400274: step_2
+    400276: step_20
+    400278: step_20_2
+    400280: step_21
+    400282: step_21_2
+    400284: step_22
+    400286: step_22_2
+    400288: step_23
+    400290: step_23_2
+    400292: step_24
+    400294: step_24_2
+    400296: step_25
+    400298: step_25_2
+    400300: step_26
+    400302: step_26_2
+    400304: step_27
+    400306: step_27_2
+    400308: step_28
+    400310: step_28_2
+    400312: step_29
+    400314: step_29_2
+    400316: step_2_2
+    400318: step_3
+    400320: step_3_2
+    400322: step_4
+    400324: step_4_2
+    400326: step_5
+    400328: step_5_2
+    400330: step_6
+    400332: step_6_2
+    400334: step_7
+    400336: step_7_2
+    400338: step_8
+    400340: step_8_2
+    400342: step_9
+    400344: step_9_2
+    400346: Symmetry
+    400348: //RootNode
+    400350: Title
+    400352: Title_Support_Beams
+    400354: ToPBevel
+    400356: ToPBevel_1
+    400358: WallBack
+    400360: Walls
+    400362: WCDoor_Left
+    400364: WCDoor_Right
+    400366: WCFrames
+    400368: WCWalls
+    400370: WindowFrame_Left
+    400372: WindowFrame_Right
+    400374: WindowGlass_Left
+    400376: WindowGlass_Right
+    400378: Windows
+    2300000: Carpet
+    2300002: Carpet_2
+    2300004: Carpet_3
+    2300006: Ceiling
+    2300008: Columns
+    2300010: Columns_2
+    2300012: Columns_Room
+    2300014: Cube
+    2300016: Door_Left
+    2300018: Door_left
+    2300020: Door_Left_2
+    2300022: Door_left_2
+    2300024: Door_Left_3
+    2300026: Door_Left_4
+    2300028: Door_left_Glass
+    2300030: Door_left_Glass_2
+    2300032: Door_Right
+    2300034: Door_right
+    2300036: Door_Right_2
+    2300038: Door_right_2
+    2300040: Door_Right_3
+    2300042: Door_Right_4
+    2300044: Door_right_Glass
+    2300046: Door_right_Glass_2
+    2300048: DoorKnob_Left
+    2300050: DoorKnob_Left_2
+    2300052: DoorKnob_Left_3
+    2300054: DoorKnob_Left_4
+    2300056: DoorKnob_Right
+    2300058: DoorKnob_Right_2
+    2300060: DoorKnob_Right_3
+    2300062: DoorKnob_Right_4
+    2300064: External_facing
+    2300066: Floor
+    2300068: Frame
+    2300070: Frame_2
+    2300072: Frame_3
+    2300074: Frame_4
+    2300076: FrameGlass
+    2300078: FrameGlass_2
+    2300080: FrameGlass_3
+    2300082: FrameGlass_4
+    2300084: FrontWall
+    2300086: FrontWall_1
+    2300088: FrontWall_1_2
+    2300090: FrontWall_1_2_1
+    2300092: FrontWall_2
+    2300094: Lamp_back
+    2300096: Lamp_front
+    2300098: Lamp_furniture
+    2300100: Lamp_grocery
+    2300102: Lamp_home
+    2300104: Lamp_Left
+    2300106: Lamp_Right
+    2300108: Lamp_secodLeft
+    2300110: Lamp_secondBottom
+    2300112: Lamp_secondFront
+    2300114: Lamp_secondRight
+    2300116: Lamp_Souvenir
+    2300118: Lamp_WC
+    2300120: Lamp_WC_1
+    2300122: LeftWall
+    2300124: Lights
+    2300126: MainDoorFrame
+    2300128: Pillar
+    2300130: Rails
+    2300132: Rails_2
+    2300134: RightWall
+    2300136: RightWall_2
+    2300138: RightWall_2_1
+    2300140: SecondCeiling
+    2300142: SecondFloor_2
+    2300144: SecondWall
+    2300146: Signboard
+    2300148: signboard
+    2300150: signboard_2
+    2300152: Signboard_Support_Beams
+    2300154: Statue
+    2300156: Statue_2
+    2300158: step_1
+    2300160: step_10
+    2300162: step_10_2
+    2300164: step_11
+    2300166: step_11_2
+    2300168: step_12
+    2300170: step_12_2
+    2300172: step_13
+    2300174: step_13_2
+    2300176: step_14
+    2300178: step_14_2
+    2300180: step_15
+    2300182: step_15_2
+    2300184: step_16
+    2300186: step_16_2
+    2300188: step_17
+    2300190: step_17_2
+    2300192: step_18
+    2300194: step_18_2
+    2300196: step_19
+    2300198: step_19_2
+    2300200: step_1_2
+    2300202: step_2
+    2300204: step_20
+    2300206: step_20_2
+    2300208: step_21
+    2300210: step_21_2
+    2300212: step_22
+    2300214: step_22_2
+    2300216: step_23
+    2300218: step_23_2
+    2300220: step_24
+    2300222: step_24_2
+    2300224: step_25
+    2300226: step_25_2
+    2300228: step_26
+    2300230: step_26_2
+    2300232: step_27
+    2300234: step_27_2
+    2300236: step_28
+    2300238: step_28_2
+    2300240: step_29
+    2300242: step_29_2
+    2300244: step_2_2
+    2300246: step_3
+    2300248: step_3_2
+    2300250: step_4
+    2300252: step_4_2
+    2300254: step_5
+    2300256: step_5_2
+    2300258: step_6
+    2300260: step_6_2
+    2300262: step_7
+    2300264: step_7_2
+    2300266: step_8
+    2300268: step_8_2
+    2300270: step_9
+    2300272: step_9_2
+    2300274: Title
+    2300276: Title_Support_Beams
+    2300278: ToPBevel
+    2300280: ToPBevel_1
+    2300282: WallBack
+    2300284: WCDoor_Left
+    2300286: WCDoor_Right
+    2300288: WCFrames
+    2300290: WCWalls
+    2300292: WindowFrame_Left
+    2300294: WindowFrame_Right
+    2300296: WindowGlass_Left
+    2300298: WindowGlass_Right
+    3300000: Carpet
+    3300002: Carpet_2
+    3300004: Carpet_3
+    3300006: Ceiling
+    3300008: Columns
+    3300010: Columns_2
+    3300012: Columns_Room
+    3300014: Cube
+    3300016: Door_Left
+    3300018: Door_left
+    3300020: Door_Left_2
+    3300022: Door_left_2
+    3300024: Door_Left_3
+    3300026: Door_Left_4
+    3300028: Door_left_Glass
+    3300030: Door_left_Glass_2
+    3300032: Door_Right
+    3300034: Door_right
+    3300036: Door_Right_2
+    3300038: Door_right_2
+    3300040: Door_Right_3
+    3300042: Door_Right_4
+    3300044: Door_right_Glass
+    3300046: Door_right_Glass_2
+    3300048: DoorKnob_Left
+    3300050: DoorKnob_Left_2
+    3300052: DoorKnob_Left_3
+    3300054: DoorKnob_Left_4
+    3300056: DoorKnob_Right
+    3300058: DoorKnob_Right_2
+    3300060: DoorKnob_Right_3
+    3300062: DoorKnob_Right_4
+    3300064: External_facing
+    3300066: Floor
+    3300068: Frame
+    3300070: Frame_2
+    3300072: Frame_3
+    3300074: Frame_4
+    3300076: FrameGlass
+    3300078: FrameGlass_2
+    3300080: FrameGlass_3
+    3300082: FrameGlass_4
+    3300084: FrontWall
+    3300086: FrontWall_1
+    3300088: FrontWall_1_2
+    3300090: FrontWall_1_2_1
+    3300092: FrontWall_2
+    3300094: Lamp_back
+    3300096: Lamp_front
+    3300098: Lamp_furniture
+    3300100: Lamp_grocery
+    3300102: Lamp_home
+    3300104: Lamp_Left
+    3300106: Lamp_Right
+    3300108: Lamp_secodLeft
+    3300110: Lamp_secondBottom
+    3300112: Lamp_secondFront
+    3300114: Lamp_secondRight
+    3300116: Lamp_Souvenir
+    3300118: Lamp_WC
+    3300120: Lamp_WC_1
+    3300122: LeftWall
+    3300124: Lights
+    3300126: MainDoorFrame
+    3300128: Pillar
+    3300130: Rails
+    3300132: Rails_2
+    3300134: RightWall
+    3300136: RightWall_2
+    3300138: RightWall_2_1
+    3300140: SecondCeiling
+    3300142: SecondFloor_2
+    3300144: SecondWall
+    3300146: Signboard
+    3300148: signboard
+    3300150: signboard_2
+    3300152: Signboard_Support_Beams
+    3300154: Statue
+    3300156: Statue_2
+    3300158: step_1
+    3300160: step_10
+    3300162: step_10_2
+    3300164: step_11
+    3300166: step_11_2
+    3300168: step_12
+    3300170: step_12_2
+    3300172: step_13
+    3300174: step_13_2
+    3300176: step_14
+    3300178: step_14_2
+    3300180: step_15
+    3300182: step_15_2
+    3300184: step_16
+    3300186: step_16_2
+    3300188: step_17
+    3300190: step_17_2
+    3300192: step_18
+    3300194: step_18_2
+    3300196: step_19
+    3300198: step_19_2
+    3300200: step_1_2
+    3300202: step_2
+    3300204: step_20
+    3300206: step_20_2
+    3300208: step_21
+    3300210: step_21_2
+    3300212: step_22
+    3300214: step_22_2
+    3300216: step_23
+    3300218: step_23_2
+    3300220: step_24
+    3300222: step_24_2
+    3300224: step_25
+    3300226: step_25_2
+    3300228: step_26
+    3300230: step_26_2
+    3300232: step_27
+    3300234: step_27_2
+    3300236: step_28
+    3300238: step_28_2
+    3300240: step_29
+    3300242: step_29_2
+    3300244: step_2_2
+    3300246: step_3
+    3300248: step_3_2
+    3300250: step_4
+    3300252: step_4_2
+    3300254: step_5
+    3300256: step_5_2
+    3300258: step_6
+    3300260: step_6_2
+    3300262: step_7
+    3300264: step_7_2
+    3300266: step_8
+    3300268: step_8_2
+    3300270: step_9
+    3300272: step_9_2
+    3300274: Title
+    3300276: Title_Support_Beams
+    3300278: ToPBevel
+    3300280: ToPBevel_1
+    3300282: WallBack
+    3300284: WCDoor_Left
+    3300286: WCDoor_Right
+    3300288: WCFrames
+    3300290: WCWalls
+    3300292: WindowFrame_Left
+    3300294: WindowFrame_Right
+    3300296: WindowGlass_Left
+    3300298: WindowGlass_Right
+    4300000: Title_Support_Beams
+    4300002: Title
+    4300004: Signboard_Support_Beams
+    4300006: Signboard
+    4300008: External_facing
+    4300010: Rails
+    4300012: step_1
+    4300014: step_2
+    4300016: step_3
+    4300018: step_4
+    4300020: step_5
+    4300022: step_6
+    4300024: step_7
+    4300026: step_8
+    4300028: step_9
+    4300030: step_10
+    4300032: step_11
+    4300034: step_12
+    4300036: step_13
+    4300038: step_14
+    4300040: step_15
+    4300042: step_16
+    4300044: step_17
+    4300046: step_18
+    4300048: step_19
+    4300050: step_20
+    4300052: step_21
+    4300054: step_22
+    4300056: step_23
+    4300058: step_24
+    4300060: step_25
+    4300062: step_26
+    4300064: step_27
+    4300066: step_28
+    4300068: step_29
+    4300070: Rails_2
+    4300072: step_1_2
+    4300074: step_2_2
+    4300076: step_3_2
+    4300078: step_4_2
+    4300080: step_5_2
+    4300082: step_6_2
+    4300084: step_7_2
+    4300086: step_8_2
+    4300088: step_9_2
+    4300090: step_10_2
+    4300092: step_11_2
+    4300094: step_12_2
+    4300096: step_13_2
+    4300098: step_14_2
+    4300100: step_15_2
+    4300102: step_16_2
+    4300104: step_17_2
+    4300106: step_18_2
+    4300108: step_19_2
+    4300110: step_20_2
+    4300112: step_21_2
+    4300114: step_22_2
+    4300116: step_23_2
+    4300118: step_24_2
+    4300120: step_25_2
+    4300122: step_26_2
+    4300124: step_27_2
+    4300126: step_28_2
+    4300128: step_29_2
+    4300130: Frame
+    4300132: FrameGlass
+    4300134: Frame_2
+    4300136: FrameGlass_2
+    4300138: Frame_3
+    4300140: FrameGlass_3
+    4300142: Frame_4
+    4300144: FrameGlass_4
+    4300146: Door_Right
+    4300148: DoorKnob_Right
+    4300150: Door_Left
+    4300152: DoorKnob_Left
+    4300154: Door_Right_2
+    4300156: DoorKnob_Right_2
+    4300158: Door_Left_2
+    4300160: DoorKnob_Left_2
+    4300162: Door_Right_3
+    4300164: DoorKnob_Right_3
+    4300166: Door_Left_3
+    4300168: DoorKnob_Left_3
+    4300170: Door_Right_4
+    4300172: DoorKnob_Right_4
+    4300174: Door_Left_4
+    4300176: DoorKnob_Left_4
+    4300178: WindowGlass_Left
+    4300180: WindowGlass_Right
+    4300182: WindowFrame_Left
+    4300184: WindowFrame_Right
+    4300186: Cube
+    4300188: Columns
+    4300190: Columns_Room
+    4300192: Pillar
+    4300194: WCWalls
+    4300196: WCFrames
+    4300198: WCDoor_Right
+    4300200: WCDoor_Left
+    4300202: Floor
+    4300204: Ceiling
+    4300206: signboard
+    4300208: signboard_2
+    4300210: Statue
+    4300212: Statue_2
+    4300214: ToPBevel
+    4300216: Carpet
+    4300218: ToPBevel_1
+    4300220: Carpet_2
+    4300222: Carpet_3
+    4300224: FrontWall
+    4300226: FrontWall_1
+    4300228: FrontWall_1_2
+    4300230: FrontWall_2
+    4300232: RightWall
+    4300234: RightWall_2
+    4300236: LeftWall
+    4300238: WallBack
+    4300240: FrontWall_1_2_1
+    4300242: RightWall_2_1
+    4300244: MainDoorFrame
+    4300246: Door_left_Glass
+    4300248: Door_left
+    4300250: Door_right_Glass
+    4300252: Door_right
+    4300254: Door_left_Glass_2
+    4300256: Door_left_2
+    4300258: Door_right_Glass_2
+    4300260: Door_right_2
+    4300262: Lamp_Right
+    4300264: Lamp_WC
+    4300266: Lamp_Left
+    4300268: Lamp_back
+    4300270: Lamp_front
+    4300272: Lamp_furniture
+    4300274: Lamp_grocery
+    4300276: Lamp_home
+    4300278: Lamp_Souvenir
+    4300280: Lamp_secodLeft
+    4300282: Lamp_secondRight
+    4300284: Lamp_secondFront
+    4300286: Lamp_secondBottom
+    4300288: Lamp_WC_1
+    4300290: Columns_2
+    4300292: Lights
+    4300294: SecondFloor_2
+    4300296: SecondCeiling
+    4300298: SecondWall
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Inside
+        weight: 1
+      - path: Inside/DoorFrames
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame/Frame_4
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame/FrameGlass_4
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_1
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_1/Frame_3
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_1/FrameGlass_3
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_2
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_2/Frame_2
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_2/FrameGlass_2
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_3
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_3/Frame
+        weight: 1
+      - path: Inside/DoorFrames/DoorFrame_3/FrameGlass
+        weight: 1
+      - path: Inside/Escalator_left
+        weight: 1
+      - path: Inside/Escalator_left/Ladder
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_1
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_2
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_3
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_4
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_5
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_6
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_7
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_8
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_9
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_10
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_11
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_12
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_13
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_14
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_15
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_16
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_17
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_18
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_19
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_20
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_21
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_22
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_23
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_24
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_25
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_26
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_27
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_28
+        weight: 1
+      - path: Inside/Escalator_left/Ladder/step_29
+        weight: 1
+      - path: Inside/Escalator_left/Rails
+        weight: 1
+      - path: Inside/Escalator_right
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_1_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_2_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_3_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_4_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_5_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_6_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_7_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_8_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_9_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_10_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_11_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_12_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_13_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_14_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_15_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_16_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_17_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_18_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_19_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_20_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_21_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_22_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_23_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_24_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_25_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_26_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_27_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_28_2
+        weight: 1
+      - path: Inside/Escalator_right/Ladder_2/step_29_2
+        weight: 1
+      - path: Inside/Escalator_right/Rails_2
+        weight: 1
+      - path: Inside/FirstFloor
+        weight: 1
+      - path: Inside/FirstFloor/Ceiling
+        weight: 1
+      - path: Inside/FirstFloor/Columns
+        weight: 1
+      - path: Inside/FirstFloor/Columns_Room
+        weight: 1
+      - path: Inside/FirstFloor/Decoration
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/Carpet
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/Carpet_2
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/Carpet_3
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/signboard
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/signboard_2
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/Statue
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/Statue_2
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/ToPBevel
+        weight: 1
+      - path: Inside/FirstFloor/Decoration/ToPBevel_1
+        weight: 1
+      - path: Inside/FirstFloor/Doors
+        weight: 1
+      - path: Inside/FirstFloor/Doors/LeftMainDoor
+        weight: 1
+      - path: Inside/FirstFloor/Doors/LeftMainDoor/LeftDoor_2
+        weight: 1
+      - path: Inside/FirstFloor/Doors/LeftMainDoor/LeftDoor_2/Door_left_2
+        weight: 1
+      - path: Inside/FirstFloor/Doors/LeftMainDoor/LeftDoor_2/Door_left_Glass_2
+        weight: 1
+      - path: Inside/FirstFloor/Doors/LeftMainDoor/RightDoor_2
+        weight: 1
+      - path: Inside/FirstFloor/Doors/LeftMainDoor/RightDoor_2/Door_right_2
+        weight: 1
+      - path: Inside/FirstFloor/Doors/LeftMainDoor/RightDoor_2/Door_right_Glass_2
+        weight: 1
+      - path: Inside/FirstFloor/Doors/MainDoorFrame
+        weight: 1
+      - path: Inside/FirstFloor/Doors/RightMainDoor
+        weight: 1
+      - path: Inside/FirstFloor/Doors/RightMainDoor/LeftDoor
+        weight: 1
+      - path: Inside/FirstFloor/Doors/RightMainDoor/LeftDoor/Door_left
+        weight: 1
+      - path: Inside/FirstFloor/Doors/RightMainDoor/LeftDoor/Door_left_Glass
+        weight: 1
+      - path: Inside/FirstFloor/Doors/RightMainDoor/RightDoor
+        weight: 1
+      - path: Inside/FirstFloor/Doors/RightMainDoor/RightDoor/Door_right
+        weight: 1
+      - path: Inside/FirstFloor/Doors/RightMainDoor/RightDoor/Door_right_Glass
+        weight: 1
+      - path: Inside/FirstFloor/Floor
+        weight: 1
+      - path: Inside/FirstFloor/Lamps
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_back
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_front
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_furniture
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_grocery
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_home
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_Left
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_Right
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_secodLeft
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_secondBottom
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_secondFront
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_secondRight
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_Souvenir
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_WC
+        weight: 1
+      - path: Inside/FirstFloor/Lamps/Lamp_WC_1
+        weight: 1
+      - path: Inside/FirstFloor/Pillar
+        weight: 1
+      - path: Inside/FirstFloor/StatueBlock
+        weight: 1
+      - path: Inside/FirstFloor/StatueBlock/Symmetry
+        weight: 1
+      - path: Inside/FirstFloor/StatueBlock/Symmetry/Cube
+        weight: 1
+      - path: Inside/FirstFloor/Walls
+        weight: 1
+      - path: Inside/FirstFloor/Walls/FrontWall
+        weight: 1
+      - path: Inside/FirstFloor/Walls/FrontWall_1
+        weight: 1
+      - path: Inside/FirstFloor/Walls/FrontWall_1_2
+        weight: 1
+      - path: Inside/FirstFloor/Walls/FrontWall_1_2_1
+        weight: 1
+      - path: Inside/FirstFloor/Walls/FrontWall_2
+        weight: 1
+      - path: Inside/FirstFloor/Walls/LeftWall
+        weight: 1
+      - path: Inside/FirstFloor/Walls/RightWall
+        weight: 1
+      - path: Inside/FirstFloor/Walls/RightWall_2
+        weight: 1
+      - path: Inside/FirstFloor/Walls/RightWall_2_1
+        weight: 1
+      - path: Inside/FirstFloor/Walls/WallBack
+        weight: 1
+      - path: Inside/FirstFloor/WCDoor_Left
+        weight: 1
+      - path: Inside/FirstFloor/WCDoor_Right
+        weight: 1
+      - path: Inside/FirstFloor/WCFrames
+        weight: 1
+      - path: Inside/FirstFloor/WCWalls
+        weight: 1
+      - path: Inside/GlassDoors
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor/DoorLeft
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor/DoorLeft/Door_Left
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor/DoorLeft/DoorKnob_Left
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor/DoorRight
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor/DoorRight/Door_Right
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor/DoorRight/DoorKnob_Right
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_1
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_1/DoorLeft_2
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_1/DoorLeft_2/Door_Left_2
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_1/DoorLeft_2/DoorKnob_Left_2
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_1/DoorRight_2
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_1/DoorRight_2/Door_Right_2
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_1/DoorRight_2/DoorKnob_Right_2
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_2
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_2/DoorLeft_3
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_2/DoorLeft_3/Door_Left_3
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_2/DoorLeft_3/DoorKnob_Left_3
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_2/DoorRight_3
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_2/DoorRight_3/Door_Right_3
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_2/DoorRight_3/DoorKnob_Right_3
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_3
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_3/DoorLeft_4
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_3/DoorLeft_4/Door_Left_4
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_3/DoorLeft_4/DoorKnob_Left_4
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_3/DoorRight_4
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_3/DoorRight_4/Door_Right_4
+        weight: 1
+      - path: Inside/GlassDoors/GlassDoor_3/DoorRight_4/DoorKnob_Right_4
+        weight: 1
+      - path: Inside/SecondFloor
+        weight: 1
+      - path: Inside/SecondFloor/Columns_2
+        weight: 1
+      - path: Inside/SecondFloor/Lights
+        weight: 1
+      - path: Inside/SecondFloor/SecondCeiling
+        weight: 1
+      - path: Inside/SecondFloor/SecondFloor_2
+        weight: 1
+      - path: Inside/SecondFloor/SecondWall
+        weight: 1
+      - path: Inside/Windows
+        weight: 1
+      - path: Inside/Windows/WindowFrame_Left
+        weight: 1
+      - path: Inside/Windows/WindowFrame_Right
+        weight: 1
+      - path: Inside/Windows/WindowGlass_Left
+        weight: 1
+      - path: Inside/Windows/WindowGlass_Right
+        weight: 1
+      - path: Outside
+        weight: 1
+      - path: Outside/External_facing
+        weight: 1
+      - path: Outside/Signboard
+        weight: 1
+      - path: Outside/Signboard_Support_Beams
+        weight: 1
+      - path: Outside/Title
+        weight: 1
+      - path: Outside/Title_Support_Beams
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

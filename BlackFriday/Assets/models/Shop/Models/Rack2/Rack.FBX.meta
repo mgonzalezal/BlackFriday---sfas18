@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 06b28ba0900361b4ca4b94c1c5bd5dfd
+timeCreated: 1489080512
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Juice
+    100002: Juice 1
+    100004: Juice 10
+    100006: Juice 11
+    100008: Juice 12
+    100010: Juice 13
+    100012: Juice 14
+    100014: Juice 15
+    100016: Juice 16
+    100018: Juice 2
+    100020: Juice 3
+    100022: Juice 4
+    100024: Juice 5
+    100026: Juice 6
+    100028: Juice 7
+    100030: Juice 8
+    100032: Juice 9
+    100034: Milk
+    100036: Milk 1
+    100038: Milk 2
+    100040: Milk 3
+    100042: Milk 4
+    100044: Milk 5
+    100046: Milk001
+    100048: Milk003
+    100050: Milk004
+    100052: Milk005
+    100054: Milk006
+    100056: Orange Juice
+    100058: Orange Juice001
+    100060: Orange Juice002
+    100062: Orange Juice003
+    100064: Orange Juice004
+    100066: Orange Juice005
+    100068: Orange Juice006
+    100070: Orange Juice007
+    100072: Orange Juice009
+    100074: Orange Juice010
+    100076: Orange Juice011
+    100078: Orange Juice012
+    100080: Orange Juice013
+    100082: Orange Juice014
+    100084: Orange Juice015
+    100086: Orange Juice016
+    100088: Orange Juice017
+    100090: Orange Juice018
+    100092: Orange Juice019
+    100094: Orange Juice020
+    100096: Orange Juice021
+    100098: Orange Juice022
+    100100: Orange Juice023
+    100102: Orange Juice024
+    100104: Orange Juice025
+    100106: Orange Juice026
+    100108: Orange Juice027
+    100110: Orange Juice028
+    100112: Orange Juice029
+    100114: Orange Juice030
+    100116: Orange Juice031
+    100118: Orange Juice032
+    100120: Orange Juice033
+    100122: Orange Juice034
+    100124: Orange Juice035
+    100126: Orange Juice036
+    100128: Orange Juice037
+    100130: Orange Juice038
+    100132: Orange Juice039
+    100134: Orange Juice040
+    100136: Orange Juice041
+    100138: Orange Juice042
+    100140: Orange Juice043
+    100142: Orange Juice044
+    100144: Orange Juice045
+    100146: Rack
+    100148: //RootNode
+    400000: Juice
+    400002: Juice 1
+    400004: Juice 10
+    400006: Juice 11
+    400008: Juice 12
+    400010: Juice 13
+    400012: Juice 14
+    400014: Juice 15
+    400016: Juice 16
+    400018: Juice 2
+    400020: Juice 3
+    400022: Juice 4
+    400024: Juice 5
+    400026: Juice 6
+    400028: Juice 7
+    400030: Juice 8
+    400032: Juice 9
+    400034: Milk
+    400036: Milk 1
+    400038: Milk 2
+    400040: Milk 3
+    400042: Milk 4
+    400044: Milk 5
+    400046: Milk001
+    400048: Milk003
+    400050: Milk004
+    400052: Milk005
+    400054: Milk006
+    400056: Orange Juice
+    400058: Orange Juice001
+    400060: Orange Juice002
+    400062: Orange Juice003
+    400064: Orange Juice004
+    400066: Orange Juice005
+    400068: Orange Juice006
+    400070: Orange Juice007
+    400072: Orange Juice009
+    400074: Orange Juice010
+    400076: Orange Juice011
+    400078: Orange Juice012
+    400080: Orange Juice013
+    400082: Orange Juice014
+    400084: Orange Juice015
+    400086: Orange Juice016
+    400088: Orange Juice017
+    400090: Orange Juice018
+    400092: Orange Juice019
+    400094: Orange Juice020
+    400096: Orange Juice021
+    400098: Orange Juice022
+    400100: Orange Juice023
+    400102: Orange Juice024
+    400104: Orange Juice025
+    400106: Orange Juice026
+    400108: Orange Juice027
+    400110: Orange Juice028
+    400112: Orange Juice029
+    400114: Orange Juice030
+    400116: Orange Juice031
+    400118: Orange Juice032
+    400120: Orange Juice033
+    400122: Orange Juice034
+    400124: Orange Juice035
+    400126: Orange Juice036
+    400128: Orange Juice037
+    400130: Orange Juice038
+    400132: Orange Juice039
+    400134: Orange Juice040
+    400136: Orange Juice041
+    400138: Orange Juice042
+    400140: Orange Juice043
+    400142: Orange Juice044
+    400144: Orange Juice045
+    400146: Rack
+    400148: //RootNode
+    2300000: Juice
+    2300002: Juice 1
+    2300004: Juice 10
+    2300006: Juice 11
+    2300008: Juice 12
+    2300010: Juice 13
+    2300012: Juice 14
+    2300014: Juice 15
+    2300016: Juice 16
+    2300018: Juice 2
+    2300020: Juice 3
+    2300022: Juice 4
+    2300024: Juice 5
+    2300026: Juice 6
+    2300028: Juice 7
+    2300030: Juice 8
+    2300032: Juice 9
+    2300034: Milk
+    2300036: Milk 1
+    2300038: Milk 2
+    2300040: Milk 3
+    2300042: Milk 4
+    2300044: Milk 5
+    2300046: Milk001
+    2300048: Milk003
+    2300050: Milk004
+    2300052: Milk005
+    2300054: Milk006
+    2300056: Orange Juice
+    2300058: Orange Juice001
+    2300060: Orange Juice002
+    2300062: Orange Juice003
+    2300064: Orange Juice004
+    2300066: Orange Juice005
+    2300068: Orange Juice006
+    2300070: Orange Juice007
+    2300072: Orange Juice009
+    2300074: Orange Juice010
+    2300076: Orange Juice011
+    2300078: Orange Juice012
+    2300080: Orange Juice013
+    2300082: Orange Juice014
+    2300084: Orange Juice015
+    2300086: Orange Juice016
+    2300088: Orange Juice017
+    2300090: Orange Juice018
+    2300092: Orange Juice019
+    2300094: Orange Juice020
+    2300096: Orange Juice021
+    2300098: Orange Juice022
+    2300100: Orange Juice023
+    2300102: Orange Juice024
+    2300104: Orange Juice025
+    2300106: Orange Juice026
+    2300108: Orange Juice027
+    2300110: Orange Juice028
+    2300112: Orange Juice029
+    2300114: Orange Juice030
+    2300116: Orange Juice031
+    2300118: Orange Juice032
+    2300120: Orange Juice033
+    2300122: Orange Juice034
+    2300124: Orange Juice035
+    2300126: Orange Juice036
+    2300128: Orange Juice037
+    2300130: Orange Juice038
+    2300132: Orange Juice039
+    2300134: Orange Juice040
+    2300136: Orange Juice041
+    2300138: Orange Juice042
+    2300140: Orange Juice043
+    2300142: Orange Juice044
+    2300144: Orange Juice045
+    2300146: Rack
+    3300000: Juice
+    3300002: Juice 1
+    3300004: Juice 10
+    3300006: Juice 11
+    3300008: Juice 12
+    3300010: Juice 13
+    3300012: Juice 14
+    3300014: Juice 15
+    3300016: Juice 16
+    3300018: Juice 2
+    3300020: Juice 3
+    3300022: Juice 4
+    3300024: Juice 5
+    3300026: Juice 6
+    3300028: Juice 7
+    3300030: Juice 8
+    3300032: Juice 9
+    3300034: Milk
+    3300036: Milk 1
+    3300038: Milk 2
+    3300040: Milk 3
+    3300042: Milk 4
+    3300044: Milk 5
+    3300046: Milk001
+    3300048: Milk003
+    3300050: Milk004
+    3300052: Milk005
+    3300054: Milk006
+    3300056: Orange Juice
+    3300058: Orange Juice001
+    3300060: Orange Juice002
+    3300062: Orange Juice003
+    3300064: Orange Juice004
+    3300066: Orange Juice005
+    3300068: Orange Juice006
+    3300070: Orange Juice007
+    3300072: Orange Juice009
+    3300074: Orange Juice010
+    3300076: Orange Juice011
+    3300078: Orange Juice012
+    3300080: Orange Juice013
+    3300082: Orange Juice014
+    3300084: Orange Juice015
+    3300086: Orange Juice016
+    3300088: Orange Juice017
+    3300090: Orange Juice018
+    3300092: Orange Juice019
+    3300094: Orange Juice020
+    3300096: Orange Juice021
+    3300098: Orange Juice022
+    3300100: Orange Juice023
+    3300102: Orange Juice024
+    3300104: Orange Juice025
+    3300106: Orange Juice026
+    3300108: Orange Juice027
+    3300110: Orange Juice028
+    3300112: Orange Juice029
+    3300114: Orange Juice030
+    3300116: Orange Juice031
+    3300118: Orange Juice032
+    3300120: Orange Juice033
+    3300122: Orange Juice034
+    3300124: Orange Juice035
+    3300126: Orange Juice036
+    3300128: Orange Juice037
+    3300130: Orange Juice038
+    3300132: Orange Juice039
+    3300134: Orange Juice040
+    3300136: Orange Juice041
+    3300138: Orange Juice042
+    3300140: Orange Juice043
+    3300142: Orange Juice044
+    3300144: Orange Juice045
+    3300146: Rack
+    4300000: Rack
+    4300002: Milk
+    4300004: Juice
+    4300006: Orange Juice
+    4300008: Juice
+    4300010: Juice
+    4300012: Juice
+    4300014: Juice
+    4300016: Juice
+    4300018: Juice
+    4300020: Juice
+    4300022: Juice
+    4300024: Juice
+    4300026: Juice
+    4300028: Juice
+    4300030: Juice
+    4300032: Juice
+    4300034: Juice
+    4300036: Juice
+    4300038: Juice
+    4300040: Milk
+    4300042: Milk
+    4300044: Milk
+    4300046: Milk
+    4300048: Milk
+    4300050: Milk001
+    4300052: Milk003
+    4300054: Milk004
+    4300056: Milk005
+    4300058: Milk006
+    4300060: Orange Juice001
+    4300062: Orange Juice002
+    4300064: Orange Juice003
+    4300066: Orange Juice004
+    4300068: Orange Juice005
+    4300070: Orange Juice006
+    4300072: Orange Juice007
+    4300074: Orange Juice009
+    4300076: Orange Juice010
+    4300078: Orange Juice011
+    4300080: Orange Juice012
+    4300082: Orange Juice013
+    4300084: Orange Juice014
+    4300086: Orange Juice015
+    4300088: Orange Juice016
+    4300090: Orange Juice017
+    4300092: Orange Juice018
+    4300094: Orange Juice019
+    4300096: Orange Juice020
+    4300098: Orange Juice021
+    4300100: Orange Juice022
+    4300102: Orange Juice023
+    4300104: Orange Juice024
+    4300106: Orange Juice025
+    4300108: Orange Juice026
+    4300110: Orange Juice027
+    4300112: Orange Juice028
+    4300114: Orange Juice029
+    4300116: Orange Juice030
+    4300118: Orange Juice031
+    4300120: Orange Juice032
+    4300122: Orange Juice033
+    4300124: Orange Juice034
+    4300126: Orange Juice035
+    4300128: Orange Juice036
+    4300130: Orange Juice037
+    4300132: Orange Juice038
+    4300134: Orange Juice039
+    4300136: Orange Juice040
+    4300138: Orange Juice041
+    4300140: Orange Juice042
+    4300142: Orange Juice043
+    4300144: Orange Juice044
+    4300146: Orange Juice045
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

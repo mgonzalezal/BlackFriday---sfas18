@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: b21ef2f916874b944b52c4ffcfaa7be4
+timeCreated: 1516808741
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arms
+    100002: gambe
+    100004: gambe_1
+    100006: gambe_2
+    100008: gambe_3
+    100010: gambetavolo
+    100012: legnosedia
+    100014: legnosedia_1
+    100016: legnosedia_2
+    100018: legnosedia_3
+    100020: pianotavolo
+    100022: rubber
+    100024: //RootNode
+    400000: arms
+    400002: gambe
+    400004: gambe_1
+    400006: gambe_2
+    400008: gambe_3
+    400010: gambetavolo
+    400012: legnosedia
+    400014: legnosedia_1
+    400016: legnosedia_2
+    400018: legnosedia_3
+    400020: pianotavolo
+    400022: rubber
+    400024: //RootNode
+    2100000: armsMat
+    2100002: gambeMat
+    2100004: gambe_1Mat
+    2100006: gambe_2Mat
+    2100008: gambe_3Mat
+    2100010: gambetavoloMat
+    2100012: legnosediaMat
+    2100014: legnosedia_1Mat
+    2100016: legnosedia_2Mat
+    2100018: legnosedia_3Mat
+    2100020: pianotavoloMat
+    2100022: rubberMat
+    2300000: arms
+    2300002: gambe
+    2300004: gambe_1
+    2300006: gambe_2
+    2300008: gambe_3
+    2300010: gambetavolo
+    2300012: legnosedia
+    2300014: legnosedia_1
+    2300016: legnosedia_2
+    2300018: legnosedia_3
+    2300020: pianotavolo
+    2300022: rubber
+    3300000: arms
+    3300002: gambe
+    3300004: gambe_1
+    3300006: gambe_2
+    3300008: gambe_3
+    3300010: gambetavolo
+    3300012: legnosedia
+    3300014: legnosedia_1
+    3300016: legnosedia_2
+    3300018: legnosedia_3
+    3300020: pianotavolo
+    3300022: rubber
+    4300000: arms
+    4300002: gambe
+    4300004: gambe_1
+    4300006: gambe_2
+    4300008: gambe_3
+    4300010: gambetavolo
+    4300012: legnosedia
+    4300014: legnosedia_1
+    4300016: legnosedia_2
+    4300018: legnosedia_3
+    4300020: pianotavolo
+    4300022: rubber
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: armsMat
+    second: {fileID: 2100000, guid: 71732f9b365238d4d8e4ce45d2525d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gambeMat
+    second: {fileID: 2100000, guid: 7cd1c1b52a8af74488e1bd1d2d70c677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gambe_1Mat
+    second: {fileID: 2100000, guid: d795a716d4c31c74383a7f18f65ba1ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gambe_2Mat
+    second: {fileID: 2100000, guid: a03fc9dc12b5ed6428171155fc720298, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gambe_3Mat
+    second: {fileID: 2100000, guid: 68aa94c1c9a22ed41bf14062ef8fdc76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gambetavoloMat
+    second: {fileID: 2100000, guid: 0f044e97f97dd3f468680741be63492c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legnosediaMat
+    second: {fileID: 2100000, guid: 03d5a28935730164b9d5a63ee530d182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legnosedia_1Mat
+    second: {fileID: 2100000, guid: 14662ceac2a4db14eae86b5d54e9a2ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legnosedia_2Mat
+    second: {fileID: 2100000, guid: d37949f34f63d624b957e1a01ac50a87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: legnosedia_3Mat
+    second: {fileID: 2100000, guid: ee8eb65441df4f540b74b622ab47e089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pianotavoloMat
+    second: {fileID: 2100000, guid: 4eedf9fbc0c47bf48a51806303e9097c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubberMat
+    second: {fileID: 2100000, guid: 4c037ab2f5147ce43b1a4e40dbf274aa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

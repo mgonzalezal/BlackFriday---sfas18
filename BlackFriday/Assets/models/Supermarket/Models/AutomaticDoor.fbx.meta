@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: f939b1ccac6c5e441bfc3fdcba1964f3
+timeCreated: 1469782631
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AutomaticDoorDoorFrame
+    100004: Door_left
+    100006: Door_left_2
+    100008: Door_left_Glass
+    100010: Door_left_Glass_2
+    100012: Door_right
+    100014: Door_right_2
+    100016: Door_right_Glass
+    100018: Door_right_Glass_2
+    100020: LeftDoor
+    100022: LeftDoor_2
+    100024: LeftMainDoor
+    100026: RightDoor
+    100028: RightDoor_2
+    100030: RightMainDoor
+    400000: //RootNode
+    400002: AutomaticDoorDoorFrame
+    400004: Door_left
+    400006: Door_left_2
+    400008: Door_left_Glass
+    400010: Door_left_Glass_2
+    400012: Door_right
+    400014: Door_right_2
+    400016: Door_right_Glass
+    400018: Door_right_Glass_2
+    400020: LeftDoor
+    400022: LeftDoor_2
+    400024: LeftMainDoor
+    400026: RightDoor
+    400028: RightDoor_2
+    400030: RightMainDoor
+    2300000: AutomaticDoorDoorFrame
+    2300002: Door_left
+    2300004: Door_left_2
+    2300006: Door_left_Glass
+    2300008: Door_left_Glass_2
+    2300010: Door_right
+    2300012: Door_right_2
+    2300014: Door_right_Glass
+    2300016: Door_right_Glass_2
+    3300000: AutomaticDoorDoorFrame
+    3300002: Door_left
+    3300004: Door_left_2
+    3300006: Door_left_Glass
+    3300008: Door_left_Glass_2
+    3300010: Door_right
+    3300012: Door_right_2
+    3300014: Door_right_Glass
+    3300016: Door_right_Glass_2
+    4300000: AutomaticDoorDoorFrame
+    4300002: Door_left_Glass
+    4300004: Door_left
+    4300006: Door_right_Glass
+    4300008: Door_right
+    4300010: Door_left_Glass_2
+    4300012: Door_left_2
+    4300014: Door_right_Glass_2
+    4300016: Door_right_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

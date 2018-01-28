@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 1926cbe1fa90ac44eaa33770e3056fb0
+timeCreated: 1489065883
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fridge
+    100004: Glass
+    100006: Glass 1
+    100008: 'ice cream '
+    100010: ice cream  1
+    100012: ice cream  10
+    100014: ice cream  11
+    100016: ice cream  12
+    100018: ice cream  13
+    100020: ice cream  14
+    100022: ice cream  15
+    100024: ice cream  16
+    100026: ice cream  17
+    100028: ice cream  18
+    100030: ice cream  19
+    100032: ice cream  2
+    100034: ice cream  20
+    100036: ice cream  21
+    100038: ice cream  22
+    100040: ice cream  23
+    100042: ice cream  24
+    100044: ice cream  25
+    100046: ice cream  26
+    100048: ice cream  27
+    100050: ice cream  28
+    100052: ice cream  29
+    100054: ice cream  3
+    100056: ice cream  30
+    100058: ice cream  31
+    100060: ice cream  32
+    100062: ice cream  33
+    100064: ice cream  34
+    100066: ice cream  35
+    100068: ice cream  4
+    100070: ice cream  5
+    100072: ice cream  6
+    100074: ice cream  7
+    100076: ice cream  8
+    100078: ice cream  9
+    100080: ice cream 001
+    100082: ice cream 002
+    100084: ice cream 003
+    100086: ice cream 004
+    100088: ice cream 005
+    100090: ice cream 006
+    100092: ice cream 007
+    100094: ice cream 008
+    100096: ice cream 009
+    100098: ice cream 010
+    100100: ice cream 011
+    100102: ice cream 012
+    100104: ice cream 013
+    100106: ice cream 014
+    100108: ice cream 015
+    100110: ice cream 016
+    100112: ice cream 017
+    100114: ice cream 018
+    100116: ice cream 019
+    100118: ice cream 020
+    100120: ice cream 021
+    100122: ice cream 022
+    100124: ice cream 023
+    100126: ice cream 024
+    100128: ice cream 025
+    100130: ice cream 026
+    100132: ice cream 027
+    100134: ice cream 028
+    100136: ice cream 029
+    100138: ice cream 030
+    100140: ice cream 031
+    100142: ice cream 032
+    100144: ice cream 033
+    100146: ice cream 034
+    100148: ice cream 035
+    100150: ice cream 036
+    100152: ice cream 037
+    100154: ice cream 038
+    100156: ice cream 039
+    100158: ice cream 040
+    100160: ice cream 041
+    100162: ice cream 042
+    100164: ice cream 043
+    100166: ice cream 044
+    100168: ice cream 045
+    100170: ice cream 046
+    100172: ice cream 047
+    100174: ice cream 048
+    100176: ice cream 049
+    100178: ice cream 050
+    100180: ice cream 051
+    100182: ice cream 052
+    100184: ice cream 053
+    100186: ice cream 054
+    100188: ice cream 055
+    100190: ice cream 056
+    100192: ice cream 057
+    100194: ice cream 058
+    100196: ice cream 059
+    100198: ice cream 060
+    100200: ice cream 061
+    100202: ice cream 062
+    100204: ice cream 063
+    100206: ice cream 064
+    100208: Mesh
+    100210: mesh
+    100212: Vanilla
+    100214: Vanilla 1
+    100216: Vanilla 10
+    100218: Vanilla 11
+    100220: Vanilla 12
+    100222: Vanilla 13
+    100224: Vanilla 14
+    100226: Vanilla 15
+    100228: Vanilla 16
+    100230: Vanilla 17
+    100232: Vanilla 18
+    100234: Vanilla 19
+    100236: Vanilla 2
+    100238: Vanilla 20
+    100240: Vanilla 21
+    100242: Vanilla 22
+    100244: Vanilla 23
+    100246: Vanilla 24
+    100248: Vanilla 25
+    100250: Vanilla 26
+    100252: Vanilla 27
+    100254: Vanilla 28
+    100256: Vanilla 29
+    100258: Vanilla 3
+    100260: Vanilla 30
+    100262: Vanilla 31
+    100264: Vanilla 32
+    100266: Vanilla 33
+    100268: Vanilla 34
+    100270: Vanilla 35
+    100272: Vanilla 4
+    100274: Vanilla 5
+    100276: Vanilla 6
+    100278: Vanilla 7
+    100280: Vanilla 8
+    100282: Vanilla 9
+    100284: Vanilla001
+    100286: Vanilla002
+    100288: Vanilla003
+    100290: Vanilla004
+    100292: Vanilla005
+    100294: Vanilla006
+    100296: Vanilla007
+    100298: Vanilla008
+    100300: Vanilla009
+    100302: Vanilla010
+    100304: Vanilla011
+    100306: Vanilla012
+    100308: Vanilla013
+    100310: Vanilla014
+    100312: Vanilla015
+    100314: Vanilla016
+    100316: Vanilla017
+    100318: Vanilla018
+    100320: Vanilla019
+    100322: Vanilla020
+    100324: Vanilla021
+    100326: Vanilla022
+    100328: Vanilla023
+    100330: Vanilla024
+    100332: Vanilla025
+    100334: Vanilla026
+    100336: Vanilla027
+    100338: Vanilla028
+    100340: Vanilla029
+    100342: Vanilla030
+    100344: Vanilla031
+    100346: Vanilla032
+    100348: Vanilla033
+    100350: Vanilla034
+    100352: Vanilla035
+    100354: Vanilla036
+    100356: Vanilla037
+    100358: Vanilla038
+    100360: Vanilla039
+    100362: Vanilla040
+    100364: Vanilla041
+    100366: Vanilla042
+    100368: Vanilla043
+    100370: Vanilla044
+    100372: Vanilla045
+    100374: Vanilla046
+    100376: Vanilla047
+    100378: Vanilla048
+    100380: Vanilla049
+    100382: Vanilla050
+    100384: Vanilla051
+    100386: Vanilla052
+    100388: Vanilla053
+    100390: Vanilla054
+    100392: Vanilla055
+    100394: Vanilla056
+    100396: Vanilla057
+    100398: Vanilla058
+    100400: Vanilla059
+    100402: Vanilla060
+    100404: Vanilla061
+    100406: Vanilla062
+    100408: Vanilla063
+    100410: Vanilla064
+    100412: Vanilla065
+    100414: Vanilla066
+    100416: Vanilla067
+    100418: Vanilla068
+    100420: Vanilla069
+    100422: Vanilla070
+    100424: Vanilla071
+    100426: Vanilla072
+    400000: //RootNode
+    400002: Fridge
+    400004: Glass
+    400006: Glass 1
+    400008: 'ice cream '
+    400010: ice cream  1
+    400012: ice cream  10
+    400014: ice cream  11
+    400016: ice cream  12
+    400018: ice cream  13
+    400020: ice cream  14
+    400022: ice cream  15
+    400024: ice cream  16
+    400026: ice cream  17
+    400028: ice cream  18
+    400030: ice cream  19
+    400032: ice cream  2
+    400034: ice cream  20
+    400036: ice cream  21
+    400038: ice cream  22
+    400040: ice cream  23
+    400042: ice cream  24
+    400044: ice cream  25
+    400046: ice cream  26
+    400048: ice cream  27
+    400050: ice cream  28
+    400052: ice cream  29
+    400054: ice cream  3
+    400056: ice cream  30
+    400058: ice cream  31
+    400060: ice cream  32
+    400062: ice cream  33
+    400064: ice cream  34
+    400066: ice cream  35
+    400068: ice cream  4
+    400070: ice cream  5
+    400072: ice cream  6
+    400074: ice cream  7
+    400076: ice cream  8
+    400078: ice cream  9
+    400080: ice cream 001
+    400082: ice cream 002
+    400084: ice cream 003
+    400086: ice cream 004
+    400088: ice cream 005
+    400090: ice cream 006
+    400092: ice cream 007
+    400094: ice cream 008
+    400096: ice cream 009
+    400098: ice cream 010
+    400100: ice cream 011
+    400102: ice cream 012
+    400104: ice cream 013
+    400106: ice cream 014
+    400108: ice cream 015
+    400110: ice cream 016
+    400112: ice cream 017
+    400114: ice cream 018
+    400116: ice cream 019
+    400118: ice cream 020
+    400120: ice cream 021
+    400122: ice cream 022
+    400124: ice cream 023
+    400126: ice cream 024
+    400128: ice cream 025
+    400130: ice cream 026
+    400132: ice cream 027
+    400134: ice cream 028
+    400136: ice cream 029
+    400138: ice cream 030
+    400140: ice cream 031
+    400142: ice cream 032
+    400144: ice cream 033
+    400146: ice cream 034
+    400148: ice cream 035
+    400150: ice cream 036
+    400152: ice cream 037
+    400154: ice cream 038
+    400156: ice cream 039
+    400158: ice cream 040
+    400160: ice cream 041
+    400162: ice cream 042
+    400164: ice cream 043
+    400166: ice cream 044
+    400168: ice cream 045
+    400170: ice cream 046
+    400172: ice cream 047
+    400174: ice cream 048
+    400176: ice cream 049
+    400178: ice cream 050
+    400180: ice cream 051
+    400182: ice cream 052
+    400184: ice cream 053
+    400186: ice cream 054
+    400188: ice cream 055
+    400190: ice cream 056
+    400192: ice cream 057
+    400194: ice cream 058
+    400196: ice cream 059
+    400198: ice cream 060
+    400200: ice cream 061
+    400202: ice cream 062
+    400204: ice cream 063
+    400206: ice cream 064
+    400208: Mesh
+    400210: mesh
+    400212: Vanilla
+    400214: Vanilla 1
+    400216: Vanilla 10
+    400218: Vanilla 11
+    400220: Vanilla 12
+    400222: Vanilla 13
+    400224: Vanilla 14
+    400226: Vanilla 15
+    400228: Vanilla 16
+    400230: Vanilla 17
+    400232: Vanilla 18
+    400234: Vanilla 19
+    400236: Vanilla 2
+    400238: Vanilla 20
+    400240: Vanilla 21
+    400242: Vanilla 22
+    400244: Vanilla 23
+    400246: Vanilla 24
+    400248: Vanilla 25
+    400250: Vanilla 26
+    400252: Vanilla 27
+    400254: Vanilla 28
+    400256: Vanilla 29
+    400258: Vanilla 3
+    400260: Vanilla 30
+    400262: Vanilla 31
+    400264: Vanilla 32
+    400266: Vanilla 33
+    400268: Vanilla 34
+    400270: Vanilla 35
+    400272: Vanilla 4
+    400274: Vanilla 5
+    400276: Vanilla 6
+    400278: Vanilla 7
+    400280: Vanilla 8
+    400282: Vanilla 9
+    400284: Vanilla001
+    400286: Vanilla002
+    400288: Vanilla003
+    400290: Vanilla004
+    400292: Vanilla005
+    400294: Vanilla006
+    400296: Vanilla007
+    400298: Vanilla008
+    400300: Vanilla009
+    400302: Vanilla010
+    400304: Vanilla011
+    400306: Vanilla012
+    400308: Vanilla013
+    400310: Vanilla014
+    400312: Vanilla015
+    400314: Vanilla016
+    400316: Vanilla017
+    400318: Vanilla018
+    400320: Vanilla019
+    400322: Vanilla020
+    400324: Vanilla021
+    400326: Vanilla022
+    400328: Vanilla023
+    400330: Vanilla024
+    400332: Vanilla025
+    400334: Vanilla026
+    400336: Vanilla027
+    400338: Vanilla028
+    400340: Vanilla029
+    400342: Vanilla030
+    400344: Vanilla031
+    400346: Vanilla032
+    400348: Vanilla033
+    400350: Vanilla034
+    400352: Vanilla035
+    400354: Vanilla036
+    400356: Vanilla037
+    400358: Vanilla038
+    400360: Vanilla039
+    400362: Vanilla040
+    400364: Vanilla041
+    400366: Vanilla042
+    400368: Vanilla043
+    400370: Vanilla044
+    400372: Vanilla045
+    400374: Vanilla046
+    400376: Vanilla047
+    400378: Vanilla048
+    400380: Vanilla049
+    400382: Vanilla050
+    400384: Vanilla051
+    400386: Vanilla052
+    400388: Vanilla053
+    400390: Vanilla054
+    400392: Vanilla055
+    400394: Vanilla056
+    400396: Vanilla057
+    400398: Vanilla058
+    400400: Vanilla059
+    400402: Vanilla060
+    400404: Vanilla061
+    400406: Vanilla062
+    400408: Vanilla063
+    400410: Vanilla064
+    400412: Vanilla065
+    400414: Vanilla066
+    400416: Vanilla067
+    400418: Vanilla068
+    400420: Vanilla069
+    400422: Vanilla070
+    400424: Vanilla071
+    400426: Vanilla072
+    2300000: Fridge
+    2300002: Glass
+    2300004: Glass 1
+    2300006: 'ice cream '
+    2300008: ice cream  1
+    2300010: ice cream  10
+    2300012: ice cream  11
+    2300014: ice cream  12
+    2300016: ice cream  13
+    2300018: ice cream  14
+    2300020: ice cream  15
+    2300022: ice cream  16
+    2300024: ice cream  17
+    2300026: ice cream  18
+    2300028: ice cream  19
+    2300030: ice cream  2
+    2300032: ice cream  20
+    2300034: ice cream  21
+    2300036: ice cream  22
+    2300038: ice cream  23
+    2300040: ice cream  24
+    2300042: ice cream  25
+    2300044: ice cream  26
+    2300046: ice cream  27
+    2300048: ice cream  28
+    2300050: ice cream  29
+    2300052: ice cream  3
+    2300054: ice cream  30
+    2300056: ice cream  31
+    2300058: ice cream  32
+    2300060: ice cream  33
+    2300062: ice cream  34
+    2300064: ice cream  35
+    2300066: ice cream  4
+    2300068: ice cream  5
+    2300070: ice cream  6
+    2300072: ice cream  7
+    2300074: ice cream  8
+    2300076: ice cream  9
+    2300078: ice cream 001
+    2300080: ice cream 002
+    2300082: ice cream 003
+    2300084: ice cream 004
+    2300086: ice cream 005
+    2300088: ice cream 006
+    2300090: ice cream 007
+    2300092: ice cream 008
+    2300094: ice cream 009
+    2300096: ice cream 010
+    2300098: ice cream 011
+    2300100: ice cream 012
+    2300102: ice cream 013
+    2300104: ice cream 014
+    2300106: ice cream 015
+    2300108: ice cream 016
+    2300110: ice cream 017
+    2300112: ice cream 018
+    2300114: ice cream 019
+    2300116: ice cream 020
+    2300118: ice cream 021
+    2300120: ice cream 022
+    2300122: ice cream 023
+    2300124: ice cream 024
+    2300126: ice cream 025
+    2300128: ice cream 026
+    2300130: ice cream 027
+    2300132: ice cream 028
+    2300134: ice cream 029
+    2300136: ice cream 030
+    2300138: ice cream 031
+    2300140: ice cream 032
+    2300142: ice cream 033
+    2300144: ice cream 034
+    2300146: ice cream 035
+    2300148: ice cream 036
+    2300150: ice cream 037
+    2300152: ice cream 038
+    2300154: ice cream 039
+    2300156: ice cream 040
+    2300158: ice cream 041
+    2300160: ice cream 042
+    2300162: ice cream 043
+    2300164: ice cream 044
+    2300166: ice cream 045
+    2300168: ice cream 046
+    2300170: ice cream 047
+    2300172: ice cream 048
+    2300174: ice cream 049
+    2300176: ice cream 050
+    2300178: ice cream 051
+    2300180: ice cream 052
+    2300182: ice cream 053
+    2300184: ice cream 054
+    2300186: ice cream 055
+    2300188: ice cream 056
+    2300190: ice cream 057
+    2300192: ice cream 058
+    2300194: ice cream 059
+    2300196: ice cream 060
+    2300198: ice cream 061
+    2300200: ice cream 062
+    2300202: ice cream 063
+    2300204: ice cream 064
+    2300206: Mesh
+    2300208: mesh
+    2300210: Vanilla
+    2300212: Vanilla 1
+    2300214: Vanilla 10
+    2300216: Vanilla 11
+    2300218: Vanilla 12
+    2300220: Vanilla 13
+    2300222: Vanilla 14
+    2300224: Vanilla 15
+    2300226: Vanilla 16
+    2300228: Vanilla 17
+    2300230: Vanilla 18
+    2300232: Vanilla 19
+    2300234: Vanilla 2
+    2300236: Vanilla 20
+    2300238: Vanilla 21
+    2300240: Vanilla 22
+    2300242: Vanilla 23
+    2300244: Vanilla 24
+    2300246: Vanilla 25
+    2300248: Vanilla 26
+    2300250: Vanilla 27
+    2300252: Vanilla 28
+    2300254: Vanilla 29
+    2300256: Vanilla 3
+    2300258: Vanilla 30
+    2300260: Vanilla 31
+    2300262: Vanilla 32
+    2300264: Vanilla 33
+    2300266: Vanilla 34
+    2300268: Vanilla 35
+    2300270: Vanilla 4
+    2300272: Vanilla 5
+    2300274: Vanilla 6
+    2300276: Vanilla 7
+    2300278: Vanilla 8
+    2300280: Vanilla 9
+    2300282: Vanilla001
+    2300284: Vanilla002
+    2300286: Vanilla003
+    2300288: Vanilla004
+    2300290: Vanilla005
+    2300292: Vanilla006
+    2300294: Vanilla007
+    2300296: Vanilla008
+    2300298: Vanilla009
+    2300300: Vanilla010
+    2300302: Vanilla011
+    2300304: Vanilla012
+    2300306: Vanilla013
+    2300308: Vanilla014
+    2300310: Vanilla015
+    2300312: Vanilla016
+    2300314: Vanilla017
+    2300316: Vanilla018
+    2300318: Vanilla019
+    2300320: Vanilla020
+    2300322: Vanilla021
+    2300324: Vanilla022
+    2300326: Vanilla023
+    2300328: Vanilla024
+    2300330: Vanilla025
+    2300332: Vanilla026
+    2300334: Vanilla027
+    2300336: Vanilla028
+    2300338: Vanilla029
+    2300340: Vanilla030
+    2300342: Vanilla031
+    2300344: Vanilla032
+    2300346: Vanilla033
+    2300348: Vanilla034
+    2300350: Vanilla035
+    2300352: Vanilla036
+    2300354: Vanilla037
+    2300356: Vanilla038
+    2300358: Vanilla039
+    2300360: Vanilla040
+    2300362: Vanilla041
+    2300364: Vanilla042
+    2300366: Vanilla043
+    2300368: Vanilla044
+    2300370: Vanilla045
+    2300372: Vanilla046
+    2300374: Vanilla047
+    2300376: Vanilla048
+    2300378: Vanilla049
+    2300380: Vanilla050
+    2300382: Vanilla051
+    2300384: Vanilla052
+    2300386: Vanilla053
+    2300388: Vanilla054
+    2300390: Vanilla055
+    2300392: Vanilla056
+    2300394: Vanilla057
+    2300396: Vanilla058
+    2300398: Vanilla059
+    2300400: Vanilla060
+    2300402: Vanilla061
+    2300404: Vanilla062
+    2300406: Vanilla063
+    2300408: Vanilla064
+    2300410: Vanilla065
+    2300412: Vanilla066
+    2300414: Vanilla067
+    2300416: Vanilla068
+    2300418: Vanilla069
+    2300420: Vanilla070
+    2300422: Vanilla071
+    2300424: Vanilla072
+    3300000: Fridge
+    3300002: Glass
+    3300004: Glass 1
+    3300006: 'ice cream '
+    3300008: ice cream  1
+    3300010: ice cream  10
+    3300012: ice cream  11
+    3300014: ice cream  12
+    3300016: ice cream  13
+    3300018: ice cream  14
+    3300020: ice cream  15
+    3300022: ice cream  16
+    3300024: ice cream  17
+    3300026: ice cream  18
+    3300028: ice cream  19
+    3300030: ice cream  2
+    3300032: ice cream  20
+    3300034: ice cream  21
+    3300036: ice cream  22
+    3300038: ice cream  23
+    3300040: ice cream  24
+    3300042: ice cream  25
+    3300044: ice cream  26
+    3300046: ice cream  27
+    3300048: ice cream  28
+    3300050: ice cream  29
+    3300052: ice cream  3
+    3300054: ice cream  30
+    3300056: ice cream  31
+    3300058: ice cream  32
+    3300060: ice cream  33
+    3300062: ice cream  34
+    3300064: ice cream  35
+    3300066: ice cream  4
+    3300068: ice cream  5
+    3300070: ice cream  6
+    3300072: ice cream  7
+    3300074: ice cream  8
+    3300076: ice cream  9
+    3300078: ice cream 001
+    3300080: ice cream 002
+    3300082: ice cream 003
+    3300084: ice cream 004
+    3300086: ice cream 005
+    3300088: ice cream 006
+    3300090: ice cream 007
+    3300092: ice cream 008
+    3300094: ice cream 009
+    3300096: ice cream 010
+    3300098: ice cream 011
+    3300100: ice cream 012
+    3300102: ice cream 013
+    3300104: ice cream 014
+    3300106: ice cream 015
+    3300108: ice cream 016
+    3300110: ice cream 017
+    3300112: ice cream 018
+    3300114: ice cream 019
+    3300116: ice cream 020
+    3300118: ice cream 021
+    3300120: ice cream 022
+    3300122: ice cream 023
+    3300124: ice cream 024
+    3300126: ice cream 025
+    3300128: ice cream 026
+    3300130: ice cream 027
+    3300132: ice cream 028
+    3300134: ice cream 029
+    3300136: ice cream 030
+    3300138: ice cream 031
+    3300140: ice cream 032
+    3300142: ice cream 033
+    3300144: ice cream 034
+    3300146: ice cream 035
+    3300148: ice cream 036
+    3300150: ice cream 037
+    3300152: ice cream 038
+    3300154: ice cream 039
+    3300156: ice cream 040
+    3300158: ice cream 041
+    3300160: ice cream 042
+    3300162: ice cream 043
+    3300164: ice cream 044
+    3300166: ice cream 045
+    3300168: ice cream 046
+    3300170: ice cream 047
+    3300172: ice cream 048
+    3300174: ice cream 049
+    3300176: ice cream 050
+    3300178: ice cream 051
+    3300180: ice cream 052
+    3300182: ice cream 053
+    3300184: ice cream 054
+    3300186: ice cream 055
+    3300188: ice cream 056
+    3300190: ice cream 057
+    3300192: ice cream 058
+    3300194: ice cream 059
+    3300196: ice cream 060
+    3300198: ice cream 061
+    3300200: ice cream 062
+    3300202: ice cream 063
+    3300204: ice cream 064
+    3300206: Mesh
+    3300208: mesh
+    3300210: Vanilla
+    3300212: Vanilla 1
+    3300214: Vanilla 10
+    3300216: Vanilla 11
+    3300218: Vanilla 12
+    3300220: Vanilla 13
+    3300222: Vanilla 14
+    3300224: Vanilla 15
+    3300226: Vanilla 16
+    3300228: Vanilla 17
+    3300230: Vanilla 18
+    3300232: Vanilla 19
+    3300234: Vanilla 2
+    3300236: Vanilla 20
+    3300238: Vanilla 21
+    3300240: Vanilla 22
+    3300242: Vanilla 23
+    3300244: Vanilla 24
+    3300246: Vanilla 25
+    3300248: Vanilla 26
+    3300250: Vanilla 27
+    3300252: Vanilla 28
+    3300254: Vanilla 29
+    3300256: Vanilla 3
+    3300258: Vanilla 30
+    3300260: Vanilla 31
+    3300262: Vanilla 32
+    3300264: Vanilla 33
+    3300266: Vanilla 34
+    3300268: Vanilla 35
+    3300270: Vanilla 4
+    3300272: Vanilla 5
+    3300274: Vanilla 6
+    3300276: Vanilla 7
+    3300278: Vanilla 8
+    3300280: Vanilla 9
+    3300282: Vanilla001
+    3300284: Vanilla002
+    3300286: Vanilla003
+    3300288: Vanilla004
+    3300290: Vanilla005
+    3300292: Vanilla006
+    3300294: Vanilla007
+    3300296: Vanilla008
+    3300298: Vanilla009
+    3300300: Vanilla010
+    3300302: Vanilla011
+    3300304: Vanilla012
+    3300306: Vanilla013
+    3300308: Vanilla014
+    3300310: Vanilla015
+    3300312: Vanilla016
+    3300314: Vanilla017
+    3300316: Vanilla018
+    3300318: Vanilla019
+    3300320: Vanilla020
+    3300322: Vanilla021
+    3300324: Vanilla022
+    3300326: Vanilla023
+    3300328: Vanilla024
+    3300330: Vanilla025
+    3300332: Vanilla026
+    3300334: Vanilla027
+    3300336: Vanilla028
+    3300338: Vanilla029
+    3300340: Vanilla030
+    3300342: Vanilla031
+    3300344: Vanilla032
+    3300346: Vanilla033
+    3300348: Vanilla034
+    3300350: Vanilla035
+    3300352: Vanilla036
+    3300354: Vanilla037
+    3300356: Vanilla038
+    3300358: Vanilla039
+    3300360: Vanilla040
+    3300362: Vanilla041
+    3300364: Vanilla042
+    3300366: Vanilla043
+    3300368: Vanilla044
+    3300370: Vanilla045
+    3300372: Vanilla046
+    3300374: Vanilla047
+    3300376: Vanilla048
+    3300378: Vanilla049
+    3300380: Vanilla050
+    3300382: Vanilla051
+    3300384: Vanilla052
+    3300386: Vanilla053
+    3300388: Vanilla054
+    3300390: Vanilla055
+    3300392: Vanilla056
+    3300394: Vanilla057
+    3300396: Vanilla058
+    3300398: Vanilla059
+    3300400: Vanilla060
+    3300402: Vanilla061
+    3300404: Vanilla062
+    3300406: Vanilla063
+    3300408: Vanilla064
+    3300410: Vanilla065
+    3300412: Vanilla066
+    3300414: Vanilla067
+    3300416: Vanilla068
+    3300418: Vanilla069
+    3300420: Vanilla070
+    3300422: Vanilla071
+    3300424: Vanilla072
+    4300000: Mesh
+    4300002: mesh
+    4300004: Vanilla
+    4300006: ice cream 006
+    4300008: ice cream 007
+    4300010: ice cream 018
+    4300012: ice cream 019
+    4300014: ice cream 028
+    4300016: ice cream 029
+    4300018: ice cream 038
+    4300020: ice cream 039
+    4300022: ice cream 048
+    4300024: ice cream 049
+    4300026: ice cream 058
+    4300028: ice cream 059
+    4300030: 'ice cream '
+    4300032: 'ice cream '
+    4300034: 'ice cream '
+    4300036: 'ice cream '
+    4300038: 'ice cream '
+    4300040: 'ice cream '
+    4300042: 'ice cream '
+    4300044: 'ice cream '
+    4300046: 'ice cream '
+    4300048: Vanilla
+    4300050: Vanilla
+    4300052: Vanilla
+    4300054: Vanilla001
+    4300056: Vanilla010
+    4300058: Vanilla019
+    4300060: Vanilla028
+    4300062: Vanilla037
+    4300064: Vanilla046
+    4300066: Vanilla055
+    4300068: Vanilla064
+    4300070: Fridge
+    4300072: Glass
+    4300074: Vanilla
+    4300076: Vanilla013
+    4300078: Vanilla049
+    4300080: Vanilla
+    4300082: Vanilla
+    4300084: Vanilla011
+    4300086: Vanilla012
+    4300088: Vanilla047
+    4300090: Vanilla048
+    4300092: Vanilla
+    4300094: Vanilla
+    4300096: Vanilla
+    4300098: Vanilla
+    4300100: Vanilla
+    4300102: Vanilla014
+    4300104: Vanilla015
+    4300106: Vanilla016
+    4300108: Vanilla017
+    4300110: Vanilla018
+    4300112: Vanilla050
+    4300114: Vanilla051
+    4300116: Vanilla052
+    4300118: Vanilla053
+    4300120: Vanilla054
+    4300122: 'ice cream '
+    4300124: ice cream 057
+    4300126: ice cream 004
+    4300128: ice cream 005
+    4300130: ice cream 009
+    4300132: ice cream 014
+    4300134: ice cream 015
+    4300136: ice cream 016
+    4300138: ice cream 024
+    4300140: ice cream 025
+    4300142: ice cream 026
+    4300144: ice cream 034
+    4300146: ice cream 035
+    4300148: ice cream 036
+    4300150: ice cream 044
+    4300152: ice cream 045
+    4300154: ice cream 046
+    4300156: ice cream 054
+    4300158: ice cream 055
+    4300160: ice cream 056
+    4300162: ice cream 061
+    4300164: 'ice cream '
+    4300166: 'ice cream '
+    4300168: 'ice cream '
+    4300170: 'ice cream '
+    4300172: 'ice cream '
+    4300174: 'ice cream '
+    4300176: 'ice cream '
+    4300178: 'ice cream '
+    4300180: 'ice cream '
+    4300182: Vanilla
+    4300184: Vanilla004
+    4300186: Vanilla040
+    4300188: ice cream 060
+    4300190: Vanilla
+    4300192: Vanilla
+    4300194: Vanilla002
+    4300196: Vanilla003
+    4300198: Vanilla038
+    4300200: Vanilla039
+    4300202: 'ice cream '
+    4300204: 'ice cream '
+    4300206: 'ice cream '
+    4300208: 'ice cream '
+    4300210: 'ice cream '
+    4300212: 'ice cream '
+    4300214: 'ice cream '
+    4300216: 'ice cream '
+    4300218: ice cream 064
+    4300220: 'ice cream '
+    4300222: 'ice cream '
+    4300224: 'ice cream '
+    4300226: 'ice cream '
+    4300228: 'ice cream '
+    4300230: ice cream 063
+    4300232: 'ice cream '
+    4300234: 'ice cream '
+    4300236: 'ice cream '
+    4300238: Vanilla
+    4300240: Vanilla
+    4300242: Vanilla
+    4300244: Vanilla
+    4300246: Vanilla
+    4300248: Vanilla005
+    4300250: Vanilla006
+    4300252: Vanilla007
+    4300254: Vanilla008
+    4300256: Vanilla009
+    4300258: Vanilla041
+    4300260: Vanilla042
+    4300262: Vanilla043
+    4300264: Vanilla044
+    4300266: Vanilla045
+    4300268: 'ice cream '
+    4300270: ice cream 001
+    4300272: ice cream 002
+    4300274: ice cream 003
+    4300276: ice cream 008
+    4300278: ice cream 010
+    4300280: ice cream 011
+    4300282: ice cream 012
+    4300284: ice cream 013
+    4300286: ice cream 017
+    4300288: ice cream 020
+    4300290: ice cream 021
+    4300292: ice cream 022
+    4300294: ice cream 023
+    4300296: ice cream 027
+    4300298: ice cream 030
+    4300300: ice cream 031
+    4300302: ice cream 032
+    4300304: ice cream 033
+    4300306: ice cream 037
+    4300308: ice cream 040
+    4300310: ice cream 041
+    4300312: ice cream 042
+    4300314: ice cream 043
+    4300316: ice cream 047
+    4300318: ice cream 050
+    4300320: ice cream 051
+    4300322: ice cream 052
+    4300324: ice cream 053
+    4300326: ice cream 062
+    4300328: Vanilla
+    4300330: Vanilla
+    4300332: Vanilla022
+    4300334: Vanilla031
+    4300336: Vanilla058
+    4300338: Vanilla067
+    4300340: Vanilla
+    4300342: Vanilla
+    4300344: Vanilla
+    4300346: Vanilla
+    4300348: Vanilla020
+    4300350: Vanilla021
+    4300352: Vanilla029
+    4300354: Vanilla030
+    4300356: Vanilla056
+    4300358: Vanilla057
+    4300360: Vanilla065
+    4300362: Vanilla066
+    4300364: Vanilla
+    4300366: Vanilla
+    4300368: Vanilla
+    4300370: Vanilla
+    4300372: Vanilla
+    4300374: Vanilla
+    4300376: Vanilla
+    4300378: Vanilla
+    4300380: Vanilla
+    4300382: Vanilla
+    4300384: Vanilla023
+    4300386: Vanilla024
+    4300388: Vanilla025
+    4300390: Vanilla026
+    4300392: Vanilla027
+    4300394: Vanilla032
+    4300396: Vanilla033
+    4300398: Vanilla034
+    4300400: Vanilla035
+    4300402: Vanilla036
+    4300404: Vanilla059
+    4300406: Vanilla060
+    4300408: Vanilla061
+    4300410: Vanilla062
+    4300412: Vanilla063
+    4300414: Vanilla068
+    4300416: Vanilla069
+    4300418: Vanilla070
+    4300420: Vanilla071
+    4300422: Vanilla072
+    4300424: Glass
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

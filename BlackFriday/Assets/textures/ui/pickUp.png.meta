@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: b874905352ae6b84dba0cc277f5d52a3
+timeCreated: 1516905651
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pickUp_0
+    21300002: pickUp_1
+    21300004: pickUp_2
+    21300006: pickUp_3
+    21300008: pickUp_4
+    21300010: pickUp_5
+    21300012: pickUp_6
+    21300014: pickUp_7
+    21300016: pickUp_8
+    21300018: pickUp_9
+    21300020: pickUp_10
+    21300022: pickUp_11
+    21300024: pickUp_12
+    21300026: pickUp_13
+    21300028: pickUp_14
+    21300030: pickUp_15
+    21300032: pickUp_16
+    21300034: pickUp_17
+    21300036: pickUp_18
+    21300038: pickUp_19
+    21300040: pickUp_20
+    21300042: pickUp_21
+    21300044: pickUp_22
+    21300046: pickUp_23
+    21300048: pickUp_24
+    21300050: pickUp_25
+    21300052: pickUp_26
+    21300054: pickUp_27
+    21300056: pickUp_28
+    21300058: pickUp_29
+    21300060: pickUp_30
+    21300062: pickUp_31
+    21300064: pickUp_32
+    21300066: pickUp_33
+    21300068: pickUp_34
+    21300070: pickUp_35
+    21300072: pickUp_36
+    21300074: pickUp_37
+    21300076: pickUp_38
+    21300078: pickUp_39
+    21300080: pickUp_40
+    21300082: pickUp_41
+    21300084: pickUp_42
+    21300086: pickUp_43
+    21300088: pickUp_44
+    21300090: pickUp_45
+    21300092: pickUp_46
+    21300094: pickUp_47
+    21300096: pickUp_48
+    21300098: pickUp_49
+    21300100: pickUp_50
+    21300102: pickUp_51
+    21300104: pickUp_52
+    21300106: pickUp_53
+    21300108: pickUp_54
+    21300110: pickUp_55
+    21300112: pickUp_56
+    21300114: pickUp_57
+    21300116: pickUp_58
+    21300118: pickUp_59
+    21300120: pickUp_60
+    21300122: pickUp_61
+    21300124: pickUp_62
+    21300126: pickUp_63
+    21300128: pickUp_64
+    21300130: pickUp_65
+    21300132: pickUp_66
+    21300134: pickUp_67
+    21300136: pickUp_68
+    21300138: pickUp_69
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pickUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3406
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3406
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3406
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_3
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3406
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_4
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 3406
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3144
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3144
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_7
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 3144
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3144
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_9
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 3144
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2882
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2882
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2882
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_13
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2882
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_14
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2882
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2620
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2620
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_17
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2620
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_18
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2620
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_19
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2620
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2358
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2358
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_22
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2358
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_23
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2358
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_24
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2358
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2096
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2096
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2096
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_28
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2096
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_29
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2096
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1834
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1834
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_32
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1834
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_33
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1834
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_34
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1834
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1572
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1572
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_37
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1572
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_38
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1572
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_39
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1572
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1310
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1310
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_42
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1310
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_43
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1310
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_44
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1310
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_46
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1048
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_47
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1048
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_48
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1048
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_49
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1048
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_51
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 786
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_52
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 786
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_53
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 786
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_54
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 786
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 524
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_57
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 524
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_58
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 524
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_59
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 524
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_61
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 262
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_62
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 262
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_63
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 262
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_64
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 262
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_67
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_68
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pickUp_69
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 424
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

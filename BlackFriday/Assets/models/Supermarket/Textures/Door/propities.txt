@@ -1,0 +1,2 @@
+-Alpha:Transparency
+-Render 2 sided polygon

@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: d85b04ac6965e134385cb061ac00bf43
+timeCreated: 1489155928
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Coffe
+    100002: Coffe 1
+    100004: Coffe001
+    100006: Coffe002
+    100008: Coffe003
+    100010: Coffe004
+    100012: Coffe005
+    100014: Coffe006
+    100016: Coffe007
+    100018: Coffe008
+    100020: Coffe009
+    100022: Coffe010
+    100024: Coffe011
+    100026: Coffe012
+    100028: Coffe013
+    100030: Coffe014
+    100032: Coffe015
+    100034: Coffe016
+    100036: Coffe017
+    100038: Coffe018
+    100040: Coffe019
+    100042: Coffe020
+    100044: Coffe021
+    100046: Coffe022
+    100048: Coffe023
+    100050: Coffe024
+    100052: Coffe025
+    100054: Glass
+    100056: ice cream
+    100058: ice cream001
+    100060: ice cream002
+    100062: ice cream003
+    100064: ice cream004
+    100066: ice cream005
+    100068: ice cream006
+    100070: ice cream007
+    100072: ice cream008
+    100074: ice cream009
+    100076: ice cream010
+    100078: ice cream011
+    100080: ice cream012
+    100082: ice cream013
+    100084: ice cream014
+    100086: ice cream015
+    100088: ice cream016
+    100090: Pizza
+    100092: Pizza001
+    100094: Pizza002
+    100096: Pizza003
+    100098: Pizza004
+    100100: Pizza005
+    100102: Pizza006
+    100104: Pizza007
+    100106: Pizza008
+    100108: Pizza009
+    100110: Pizza010
+    100112: Pizza011
+    100114: Pizza012
+    100116: Pizza013
+    100118: Pizza014
+    100120: Pizza015
+    100122: Pizza016
+    100124: Pizza017
+    100126: Pizza018
+    100128: Pizza019
+    100130: Pizza020
+    100132: Pizza021
+    100134: Pizza022
+    100136: Pizza023
+    100138: Pizza024
+    100140: Pizza025
+    100142: Pizza026
+    100144: Pizza027
+    100146: Pizza028
+    100148: Pizza029
+    100150: Pizza030
+    100152: Pizza031
+    100154: Pizza032
+    100156: Pizza033
+    100158: Pizza034
+    100160: Pizza035
+    100162: Pizza036
+    100164: Pizza037
+    100166: Pizza038
+    100168: Pizza039
+    100170: Pizza040
+    100172: Pizza041
+    100174: Pizza042
+    100176: Pizza043
+    100178: Pizza044
+    100180: Pizza045
+    100182: Pizza046
+    100184: Pizza047
+    100186: Pizza048
+    100188: Pizza049
+    100190: //RootNode
+    100192: Rack refrigerator
+    100194: Vegetable
+    100196: Vegetable 1
+    100198: Vegetable001
+    100200: Vegetable002
+    100202: Vegetable003
+    100204: Vegetable004
+    100206: Vegetable005
+    100208: Vegetable006
+    100210: Vegetable007
+    100212: Vegetable008
+    100214: Vegetable009
+    100216: Vegetable010
+    100218: Vegetable011
+    100220: Vegetable012
+    100222: Vegetable013
+    100224: Vegetable014
+    100226: Vegetable015
+    100228: Vegetable016
+    100230: Vegetable017
+    100232: Vegetable018
+    100234: Vegetable019
+    100236: Vegetable020
+    100238: Vegetable021
+    100240: Vegetable022
+    100242: Vegetable023
+    100244: Vegetable025
+    100246: Vegetable026
+    100248: Vegetable027
+    100250: Vegetable028
+    400000: Coffe
+    400002: Coffe 1
+    400004: Coffe001
+    400006: Coffe002
+    400008: Coffe003
+    400010: Coffe004
+    400012: Coffe005
+    400014: Coffe006
+    400016: Coffe007
+    400018: Coffe008
+    400020: Coffe009
+    400022: Coffe010
+    400024: Coffe011
+    400026: Coffe012
+    400028: Coffe013
+    400030: Coffe014
+    400032: Coffe015
+    400034: Coffe016
+    400036: Coffe017
+    400038: Coffe018
+    400040: Coffe019
+    400042: Coffe020
+    400044: Coffe021
+    400046: Coffe022
+    400048: Coffe023
+    400050: Coffe024
+    400052: Coffe025
+    400054: Glass
+    400056: ice cream
+    400058: ice cream001
+    400060: ice cream002
+    400062: ice cream003
+    400064: ice cream004
+    400066: ice cream005
+    400068: ice cream006
+    400070: ice cream007
+    400072: ice cream008
+    400074: ice cream009
+    400076: ice cream010
+    400078: ice cream011
+    400080: ice cream012
+    400082: ice cream013
+    400084: ice cream014
+    400086: ice cream015
+    400088: ice cream016
+    400090: Pizza
+    400092: Pizza001
+    400094: Pizza002
+    400096: Pizza003
+    400098: Pizza004
+    400100: Pizza005
+    400102: Pizza006
+    400104: Pizza007
+    400106: Pizza008
+    400108: Pizza009
+    400110: Pizza010
+    400112: Pizza011
+    400114: Pizza012
+    400116: Pizza013
+    400118: Pizza014
+    400120: Pizza015
+    400122: Pizza016
+    400124: Pizza017
+    400126: Pizza018
+    400128: Pizza019
+    400130: Pizza020
+    400132: Pizza021
+    400134: Pizza022
+    400136: Pizza023
+    400138: Pizza024
+    400140: Pizza025
+    400142: Pizza026
+    400144: Pizza027
+    400146: Pizza028
+    400148: Pizza029
+    400150: Pizza030
+    400152: Pizza031
+    400154: Pizza032
+    400156: Pizza033
+    400158: Pizza034
+    400160: Pizza035
+    400162: Pizza036
+    400164: Pizza037
+    400166: Pizza038
+    400168: Pizza039
+    400170: Pizza040
+    400172: Pizza041
+    400174: Pizza042
+    400176: Pizza043
+    400178: Pizza044
+    400180: Pizza045
+    400182: Pizza046
+    400184: Pizza047
+    400186: Pizza048
+    400188: Pizza049
+    400190: //RootNode
+    400192: Rack refrigerator
+    400194: Vegetable
+    400196: Vegetable 1
+    400198: Vegetable001
+    400200: Vegetable002
+    400202: Vegetable003
+    400204: Vegetable004
+    400206: Vegetable005
+    400208: Vegetable006
+    400210: Vegetable007
+    400212: Vegetable008
+    400214: Vegetable009
+    400216: Vegetable010
+    400218: Vegetable011
+    400220: Vegetable012
+    400222: Vegetable013
+    400224: Vegetable014
+    400226: Vegetable015
+    400228: Vegetable016
+    400230: Vegetable017
+    400232: Vegetable018
+    400234: Vegetable019
+    400236: Vegetable020
+    400238: Vegetable021
+    400240: Vegetable022
+    400242: Vegetable023
+    400244: Vegetable025
+    400246: Vegetable026
+    400248: Vegetable027
+    400250: Vegetable028
+    2300000: Coffe
+    2300002: Coffe 1
+    2300004: Coffe001
+    2300006: Coffe002
+    2300008: Coffe003
+    2300010: Coffe004
+    2300012: Coffe005
+    2300014: Coffe006
+    2300016: Coffe007
+    2300018: Coffe008
+    2300020: Coffe009
+    2300022: Coffe010
+    2300024: Coffe011
+    2300026: Coffe012
+    2300028: Coffe013
+    2300030: Coffe014
+    2300032: Coffe015
+    2300034: Coffe016
+    2300036: Coffe017
+    2300038: Coffe018
+    2300040: Coffe019
+    2300042: Coffe020
+    2300044: Coffe021
+    2300046: Coffe022
+    2300048: Coffe023
+    2300050: Coffe024
+    2300052: Coffe025
+    2300054: Glass
+    2300056: ice cream
+    2300058: ice cream001
+    2300060: ice cream002
+    2300062: ice cream003
+    2300064: ice cream004
+    2300066: ice cream005
+    2300068: ice cream006
+    2300070: ice cream007
+    2300072: ice cream008
+    2300074: ice cream009
+    2300076: ice cream010
+    2300078: ice cream011
+    2300080: ice cream012
+    2300082: ice cream013
+    2300084: ice cream014
+    2300086: ice cream015
+    2300088: ice cream016
+    2300090: Pizza
+    2300092: Pizza001
+    2300094: Pizza002
+    2300096: Pizza003
+    2300098: Pizza004
+    2300100: Pizza005
+    2300102: Pizza006
+    2300104: Pizza007
+    2300106: Pizza008
+    2300108: Pizza009
+    2300110: Pizza010
+    2300112: Pizza011
+    2300114: Pizza012
+    2300116: Pizza013
+    2300118: Pizza014
+    2300120: Pizza015
+    2300122: Pizza016
+    2300124: Pizza017
+    2300126: Pizza018
+    2300128: Pizza019
+    2300130: Pizza020
+    2300132: Pizza021
+    2300134: Pizza022
+    2300136: Pizza023
+    2300138: Pizza024
+    2300140: Pizza025
+    2300142: Pizza026
+    2300144: Pizza027
+    2300146: Pizza028
+    2300148: Pizza029
+    2300150: Pizza030
+    2300152: Pizza031
+    2300154: Pizza032
+    2300156: Pizza033
+    2300158: Pizza034
+    2300160: Pizza035
+    2300162: Pizza036
+    2300164: Pizza037
+    2300166: Pizza038
+    2300168: Pizza039
+    2300170: Pizza040
+    2300172: Pizza041
+    2300174: Pizza042
+    2300176: Pizza043
+    2300178: Pizza044
+    2300180: Pizza045
+    2300182: Pizza046
+    2300184: Pizza047
+    2300186: Pizza048
+    2300188: Pizza049
+    2300190: Rack refrigerator
+    2300192: Vegetable
+    2300194: Vegetable 1
+    2300196: Vegetable001
+    2300198: Vegetable002
+    2300200: Vegetable003
+    2300202: Vegetable004
+    2300204: Vegetable005
+    2300206: Vegetable006
+    2300208: Vegetable007
+    2300210: Vegetable008
+    2300212: Vegetable009
+    2300214: Vegetable010
+    2300216: Vegetable011
+    2300218: Vegetable012
+    2300220: Vegetable013
+    2300222: Vegetable014
+    2300224: Vegetable015
+    2300226: Vegetable016
+    2300228: Vegetable017
+    2300230: Vegetable018
+    2300232: Vegetable019
+    2300234: Vegetable020
+    2300236: Vegetable021
+    2300238: Vegetable022
+    2300240: Vegetable023
+    2300242: Vegetable025
+    2300244: Vegetable026
+    2300246: Vegetable027
+    2300248: Vegetable028
+    3300000: Coffe
+    3300002: Coffe 1
+    3300004: Coffe001
+    3300006: Coffe002
+    3300008: Coffe003
+    3300010: Coffe004
+    3300012: Coffe005
+    3300014: Coffe006
+    3300016: Coffe007
+    3300018: Coffe008
+    3300020: Coffe009
+    3300022: Coffe010
+    3300024: Coffe011
+    3300026: Coffe012
+    3300028: Coffe013
+    3300030: Coffe014
+    3300032: Coffe015
+    3300034: Coffe016
+    3300036: Coffe017
+    3300038: Coffe018
+    3300040: Coffe019
+    3300042: Coffe020
+    3300044: Coffe021
+    3300046: Coffe022
+    3300048: Coffe023
+    3300050: Coffe024
+    3300052: Coffe025
+    3300054: Glass
+    3300056: ice cream
+    3300058: ice cream001
+    3300060: ice cream002
+    3300062: ice cream003
+    3300064: ice cream004
+    3300066: ice cream005
+    3300068: ice cream006
+    3300070: ice cream007
+    3300072: ice cream008
+    3300074: ice cream009
+    3300076: ice cream010
+    3300078: ice cream011
+    3300080: ice cream012
+    3300082: ice cream013
+    3300084: ice cream014
+    3300086: ice cream015
+    3300088: ice cream016
+    3300090: Pizza
+    3300092: Pizza001
+    3300094: Pizza002
+    3300096: Pizza003
+    3300098: Pizza004
+    3300100: Pizza005
+    3300102: Pizza006
+    3300104: Pizza007
+    3300106: Pizza008
+    3300108: Pizza009
+    3300110: Pizza010
+    3300112: Pizza011
+    3300114: Pizza012
+    3300116: Pizza013
+    3300118: Pizza014
+    3300120: Pizza015
+    3300122: Pizza016
+    3300124: Pizza017
+    3300126: Pizza018
+    3300128: Pizza019
+    3300130: Pizza020
+    3300132: Pizza021
+    3300134: Pizza022
+    3300136: Pizza023
+    3300138: Pizza024
+    3300140: Pizza025
+    3300142: Pizza026
+    3300144: Pizza027
+    3300146: Pizza028
+    3300148: Pizza029
+    3300150: Pizza030
+    3300152: Pizza031
+    3300154: Pizza032
+    3300156: Pizza033
+    3300158: Pizza034
+    3300160: Pizza035
+    3300162: Pizza036
+    3300164: Pizza037
+    3300166: Pizza038
+    3300168: Pizza039
+    3300170: Pizza040
+    3300172: Pizza041
+    3300174: Pizza042
+    3300176: Pizza043
+    3300178: Pizza044
+    3300180: Pizza045
+    3300182: Pizza046
+    3300184: Pizza047
+    3300186: Pizza048
+    3300188: Pizza049
+    3300190: Rack refrigerator
+    3300192: Vegetable
+    3300194: Vegetable 1
+    3300196: Vegetable001
+    3300198: Vegetable002
+    3300200: Vegetable003
+    3300202: Vegetable004
+    3300204: Vegetable005
+    3300206: Vegetable006
+    3300208: Vegetable007
+    3300210: Vegetable008
+    3300212: Vegetable009
+    3300214: Vegetable010
+    3300216: Vegetable011
+    3300218: Vegetable012
+    3300220: Vegetable013
+    3300222: Vegetable014
+    3300224: Vegetable015
+    3300226: Vegetable016
+    3300228: Vegetable017
+    3300230: Vegetable018
+    3300232: Vegetable019
+    3300234: Vegetable020
+    3300236: Vegetable021
+    3300238: Vegetable022
+    3300240: Vegetable023
+    3300242: Vegetable025
+    3300244: Vegetable026
+    3300246: Vegetable027
+    3300248: Vegetable028
+    4300000: Glass
+    4300002: Coffe005
+    4300004: Pizza003
+    4300006: Pizza004
+    4300008: Pizza008
+    4300010: Pizza012
+    4300012: Pizza022
+    4300014: Pizza023
+    4300016: Pizza024
+    4300018: Pizza034
+    4300020: Pizza035
+    4300022: Pizza036
+    4300024: Pizza043
+    4300026: Vegetable005
+    4300028: Vegetable006
+    4300030: Vegetable012
+    4300032: Vegetable021
+    4300034: Vegetable025
+    4300036: ice cream006
+    4300038: ice cream016
+    4300040: ice cream015
+    4300042: Vegetable
+    4300044: Vegetable017
+    4300046: Coffe
+    4300048: Coffe008
+    4300050: Coffe009
+    4300052: Coffe011
+    4300054: Coffe013
+    4300056: Coffe015
+    4300058: Coffe017
+    4300060: Coffe019
+    4300062: Coffe021
+    4300064: Pizza001
+    4300066: Pizza005
+    4300068: Pizza007
+    4300070: Pizza011
+    4300072: Pizza015
+    4300074: Pizza018
+    4300076: Pizza021
+    4300078: Pizza027
+    4300080: Pizza030
+    4300082: Pizza033
+    4300084: Pizza039
+    4300086: Pizza042
+    4300088: Vegetable
+    4300090: Vegetable023
+    4300092: Vegetable011
+    4300094: Pizza016
+    4300096: Pizza031
+    4300098: Pizza013
+    4300100: Pizza019
+    4300102: Pizza009
+    4300104: Pizza037
+    4300106: Pizza028
+    4300108: Pizza002
+    4300110: Pizza040
+    4300112: Coffe022
+    4300114: Pizza025
+    4300116: Vegetable028
+    4300118: Pizza044
+    4300120: Coffe018
+    4300122: Coffe016
+    4300124: Coffe014
+    4300126: Pizza047
+    4300128: Coffe012
+    4300130: Pizza006
+    4300132: Coffe010
+    4300134: Coffe007
+    4300136: Coffe006
+    4300138: ice cream001
+    4300140: Vegetable026
+    4300142: Coffe025
+    4300144: Coffe024
+    4300146: Pizza
+    4300148: Coffe023
+    4300150: Coffe004
+    4300152: Coffe003
+    4300154: Coffe002
+    4300156: Coffe
+    4300158: Pizza046
+    4300160: Coffe001
+    4300162: Pizza041
+    4300164: Pizza038
+    4300166: Pizza020
+    4300168: Pizza010
+    4300170: Pizza029
+    4300172: Pizza032
+    4300174: Pizza017
+    4300176: Pizza014
+    4300178: Pizza026
+    4300180: Vegetable013
+    4300182: Vegetable020
+    4300184: Vegetable014
+    4300186: Vegetable016
+    4300188: Pizza048
+    4300190: ice cream013
+    4300192: ice cream014
+    4300194: Vegetable008
+    4300196: Vegetable007
+    4300198: Vegetable010
+    4300200: ice cream007
+    4300202: ice cream012
+    4300204: ice cream
+    4300206: Coffe020
+    4300208: Vegetable018
+    4300210: Vegetable027
+    4300212: Vegetable022
+    4300214: Vegetable001
+    4300216: ice cream002
+    4300218: ice cream003
+    4300220: Vegetable003
+    4300222: ice cream008
+    4300224: Vegetable015
+    4300226: ice cream010
+    4300228: ice cream004
+    4300230: Vegetable009
+    4300232: Pizza049
+    4300234: Vegetable002
+    4300236: Vegetable019
+    4300238: ice cream011
+    4300240: Vegetable004
+    4300242: ice cream009
+    4300244: ice cream005
+    4300246: Pizza045
+    4300248: Rack refrigerator
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

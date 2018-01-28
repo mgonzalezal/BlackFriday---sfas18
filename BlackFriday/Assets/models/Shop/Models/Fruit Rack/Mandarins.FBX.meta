@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 889d65bd91287c54d9db8c8fdcb599dd
+timeCreated: 1489221984
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Grid
+    100002: Mandarin
+    100004: Mandarin 1
+    100006: Mandarin 10
+    100008: Mandarin 11
+    100010: Mandarin 2
+    100012: Mandarin 3
+    100014: Mandarin 4
+    100016: Mandarin 5
+    100018: Mandarin 6
+    100020: Mandarin 7
+    100022: Mandarin 8
+    100024: Mandarin 9
+    100026: //RootNode
+    400000: Grid
+    400002: Mandarin
+    400004: Mandarin 1
+    400006: Mandarin 10
+    400008: Mandarin 11
+    400010: Mandarin 2
+    400012: Mandarin 3
+    400014: Mandarin 4
+    400016: Mandarin 5
+    400018: Mandarin 6
+    400020: Mandarin 7
+    400022: Mandarin 8
+    400024: Mandarin 9
+    400026: //RootNode
+    2300000: Grid
+    2300002: Mandarin
+    2300004: Mandarin 1
+    2300006: Mandarin 10
+    2300008: Mandarin 11
+    2300010: Mandarin 2
+    2300012: Mandarin 3
+    2300014: Mandarin 4
+    2300016: Mandarin 5
+    2300018: Mandarin 6
+    2300020: Mandarin 7
+    2300022: Mandarin 8
+    2300024: Mandarin 9
+    3300000: Grid
+    3300002: Mandarin
+    3300004: Mandarin 1
+    3300006: Mandarin 10
+    3300008: Mandarin 11
+    3300010: Mandarin 2
+    3300012: Mandarin 3
+    3300014: Mandarin 4
+    3300016: Mandarin 5
+    3300018: Mandarin 6
+    3300020: Mandarin 7
+    3300022: Mandarin 8
+    3300024: Mandarin 9
+    4300000: Mandarin
+    4300002: Mandarin
+    4300004: Mandarin
+    4300006: Mandarin
+    4300008: Mandarin
+    4300010: Mandarin
+    4300012: Mandarin
+    4300014: Grid
+    4300016: Mandarin
+    4300018: Mandarin
+    4300020: Mandarin
+    4300022: Mandarin
+    4300024: Mandarin
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

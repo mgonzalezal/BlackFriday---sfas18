@@ -1,0 +1,1062 @@
+fileFormatVersion: 2
+guid: e1cdb578db401564fad77e301a0b5892
+timeCreated: 1516905444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: punchDrop_0
+    21300002: punchDrop_1
+    21300004: punchDrop_2
+    21300006: punchDrop_3
+    21300008: punchDrop_4
+    21300010: punchDrop_5
+    21300012: punchDrop_6
+    21300014: punchDrop_7
+    21300016: punchDrop_8
+    21300018: punchDrop_9
+    21300020: punchDrop_10
+    21300022: punchDrop_11
+    21300024: punchDrop_12
+    21300026: punchDrop_13
+    21300028: punchDrop_14
+    21300030: punchDrop_15
+    21300032: punchDrop_16
+    21300034: punchDrop_17
+    21300036: punchDrop_18
+    21300038: punchDrop_19
+    21300040: punchDrop_20
+    21300042: punchDrop_21
+    21300044: punchDrop_22
+    21300046: punchDrop_23
+    21300048: punchDrop_24
+    21300050: punchDrop_25
+    21300052: punchDrop_26
+    21300054: punchDrop_27
+    21300056: punchDrop_28
+    21300058: punchDrop_29
+    21300060: punchDrop_30
+    21300062: punchDrop_31
+    21300064: punchDrop_32
+    21300066: punchDrop_33
+    21300068: punchDrop_34
+    21300070: punchDrop_35
+    21300072: punchDrop_36
+    21300074: punchDrop_37
+    21300076: punchDrop_38
+    21300078: punchDrop_39
+    21300080: punchDrop_40
+    21300082: punchDrop_41
+    21300084: punchDrop_42
+    21300086: punchDrop_43
+    21300088: punchDrop_44
+    21300090: punchDrop_45
+    21300092: punchDrop_46
+    21300094: punchDrop_47
+    21300096: punchDrop_48
+    21300098: punchDrop_49
+    21300100: punchDrop_50
+    21300102: punchDrop_51
+    21300104: punchDrop_52
+    21300106: punchDrop_53
+    21300108: punchDrop_54
+    21300110: punchDrop_55
+    21300112: punchDrop_56
+    21300114: punchDrop_57
+    21300116: punchDrop_58
+    21300118: punchDrop_59
+    21300120: punchDrop_60
+    21300122: punchDrop_61
+    21300124: punchDrop_62
+    21300126: punchDrop_63
+    21300128: punchDrop_64
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: punchDrop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3024
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3024
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 3024
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_3
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 3024
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_4
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3024
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2772
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2772
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_7
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2772
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2772
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_9
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2772
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2520
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2520
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_13
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2520
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_14
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2520
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2268
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2268
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_17
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2268
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_18
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2268
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_19
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2268
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_21
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2016
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2016
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_23
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2016
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_24
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2016
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1764
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_26
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1764
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_27
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1764
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1764
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_29
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1764
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1512
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1512
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_33
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1512
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_34
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1512
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1260
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_37
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1260
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_38
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1260
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_39
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1260
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_41
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1008
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_42
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1008
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_43
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1008
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_44
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1008
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 756
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_47
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 756
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_48
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 756
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_49
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 756
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 504
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_52
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 504
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_53
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 504
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_54
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 504
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_56
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 252
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_57
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 252
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_58
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 252
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_59
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 252
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_61
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_62
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_63
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: punchDrop_64
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 0
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

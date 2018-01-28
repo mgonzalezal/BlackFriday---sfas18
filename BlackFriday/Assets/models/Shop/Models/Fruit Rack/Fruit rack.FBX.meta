@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: f0b98e5851d546344912bb3671cdd17e
+timeCreated: 1489173027
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Banana
+    100002: Banana001
+    100004: Banana002
+    100006: Banana003
+    100008: Banana004
+    100010: Banana005
+    100012: Banana006
+    100014: Banana007
+    100016: Banana008
+    100018: Banana009
+    100020: Banana010
+    100022: Banana011
+    100024: Banana012
+    100026: Banana013
+    100028: Banana014
+    100030: Banana015
+    100032: Banana016
+    100034: Banana017
+    100036: Banana018
+    100038: Banana019
+    100040: Banana020
+    100042: Banana021
+    100044: Banana022
+    100046: Banana023
+    100048: Banana024
+    100050: Banana025
+    100052: Banana026
+    100054: Banana027
+    100056: Banana028
+    100058: Banana029
+    100060: Banana030
+    100062: Banana031
+    100064: Banana032
+    100066: Banana033
+    100068: Banana034
+    100070: Banana035
+    100072: Basket
+    100074: Basket 1
+    100076: Basket 2
+    100078: Basket 3
+    100080: Cabbage
+    100082: Cabbage 1
+    100084: Cabbage 2
+    100086: Cabbage 3
+    100088: Cabbage 4
+    100090: Cabbage 5
+    100092: Coconut
+    100094: Coconut001
+    100096: Coconut002
+    100098: Coconut003
+    100100: Coconut004
+    100102: Coconut005
+    100104: Coconut006
+    100106: Coconut007
+    100108: Coconut008
+    100110: Coconut009
+    100112: Coconut010
+    100114: Coconut011
+    100116: Coconut012
+    100118: Coconut013
+    100120: Coconut014
+    100122: Coconut015
+    100124: Coconut016
+    100126: Coconut017
+    100128: Coconut018
+    100130: Coconut019
+    100132: //RootNode
+    100134: Grid
+    100136: Grid001
+    100138: Grid002
+    100140: Grid003
+    100142: Grid004
+    100144: Grid005
+    100146: Grid006
+    100148: Grid007
+    100150: Group080
+    100152: Mandarin
+    100154: Mandarin 1
+    100156: Mandarin 10
+    100158: Mandarin 11
+    100160: Mandarin 2
+    100162: Mandarin 3
+    100164: Mandarin 4
+    100166: Mandarin 5
+    100168: Mandarin 6
+    100170: Mandarin 7
+    100172: Mandarin 8
+    100174: Mandarin 9
+    100176: Mandarin001
+    100178: Mandarin002
+    100180: Mandarin003
+    100182: Mandarin004
+    100184: Mandarin005
+    100186: Mandarin006
+    100188: Mandarin007
+    100190: Mandarin008
+    100192: Mandarin009
+    100194: Mandarin010
+    100196: Mandarin011
+    100198: Mandarin012
+    100200: Mandarin013
+    100202: Mandarin014
+    100204: Mandarin015
+    100206: Mandarin016
+    100208: Mandarin017
+    100210: Mandarin018
+    100212: Mandarin019
+    100214: Mandarin020
+    100216: Mandarin021
+    100218: Mandarin022
+    100220: Mandarin023
+    100222: Mandarin024
+    100224: Mandarin025
+    100226: Mandarin026
+    100228: Mandarin027
+    100230: Mandarin028
+    100232: Mandarin029
+    100234: Mandarin030
+    100236: Mandarin031
+    100238: Mandarin032
+    100240: Mandarin033
+    100242: Mandarin034
+    100244: Mandarin035
+    100246: Mandarin036
+    100248: Mandarin037
+    100250: Mandarin038
+    100252: Mandarin039
+    100254: Mandarin040
+    100256: Mandarin041
+    100258: Mandarin042
+    100260: Mandarin043
+    100262: Mandarin044
+    100264: Mandarin045
+    100266: Mandarin046
+    100268: Mandarin047
+    100270: Mandarin048
+    100272: Mandarin049
+    100274: Mandarin050
+    100276: Mandarin051
+    100278: Mandarin052
+    100280: Mandarin053
+    100282: Mandarin054
+    100284: Mandarin055
+    100286: Mandarin056
+    100288: Mandarin057
+    100290: Mandarin058
+    100292: Mandarin059
+    100294: Mandarin060
+    100296: Mandarin061
+    100298: Mandarin062
+    100300: Mandarin063
+    100302: Mandarin064
+    100304: Mandarin065
+    100306: Mandarin066
+    100308: Mandarin067
+    100310: Mandarin068
+    100312: Mandarin069
+    100314: Mandarin070
+    100316: Mandarin071
+    100318: Mandarin072
+    100320: Mandarin073
+    100322: Mandarin074
+    100324: Mandarin075
+    100326: Mandarin076
+    100328: Mandarin077
+    100330: Mandarin078
+    100332: Mandarin079
+    100334: Mandarin080
+    100336: Mandarin081
+    100338: Mandarin082
+    100340: Mandarin083
+    100342: Mandarin084
+    100344: Stillage
+    400000: Banana
+    400002: Banana001
+    400004: Banana002
+    400006: Banana003
+    400008: Banana004
+    400010: Banana005
+    400012: Banana006
+    400014: Banana007
+    400016: Banana008
+    400018: Banana009
+    400020: Banana010
+    400022: Banana011
+    400024: Banana012
+    400026: Banana013
+    400028: Banana014
+    400030: Banana015
+    400032: Banana016
+    400034: Banana017
+    400036: Banana018
+    400038: Banana019
+    400040: Banana020
+    400042: Banana021
+    400044: Banana022
+    400046: Banana023
+    400048: Banana024
+    400050: Banana025
+    400052: Banana026
+    400054: Banana027
+    400056: Banana028
+    400058: Banana029
+    400060: Banana030
+    400062: Banana031
+    400064: Banana032
+    400066: Banana033
+    400068: Banana034
+    400070: Banana035
+    400072: Basket
+    400074: Basket 1
+    400076: Basket 2
+    400078: Basket 3
+    400080: Cabbage
+    400082: Cabbage 1
+    400084: Cabbage 2
+    400086: Cabbage 3
+    400088: Cabbage 4
+    400090: Cabbage 5
+    400092: Coconut
+    400094: Coconut001
+    400096: Coconut002
+    400098: Coconut003
+    400100: Coconut004
+    400102: Coconut005
+    400104: Coconut006
+    400106: Coconut007
+    400108: Coconut008
+    400110: Coconut009
+    400112: Coconut010
+    400114: Coconut011
+    400116: Coconut012
+    400118: Coconut013
+    400120: Coconut014
+    400122: Coconut015
+    400124: Coconut016
+    400126: Coconut017
+    400128: Coconut018
+    400130: Coconut019
+    400132: //RootNode
+    400134: Grid
+    400136: Grid001
+    400138: Grid002
+    400140: Grid003
+    400142: Grid004
+    400144: Grid005
+    400146: Grid006
+    400148: Grid007
+    400150: Group080
+    400152: Mandarin
+    400154: Mandarin 1
+    400156: Mandarin 10
+    400158: Mandarin 11
+    400160: Mandarin 2
+    400162: Mandarin 3
+    400164: Mandarin 4
+    400166: Mandarin 5
+    400168: Mandarin 6
+    400170: Mandarin 7
+    400172: Mandarin 8
+    400174: Mandarin 9
+    400176: Mandarin001
+    400178: Mandarin002
+    400180: Mandarin003
+    400182: Mandarin004
+    400184: Mandarin005
+    400186: Mandarin006
+    400188: Mandarin007
+    400190: Mandarin008
+    400192: Mandarin009
+    400194: Mandarin010
+    400196: Mandarin011
+    400198: Mandarin012
+    400200: Mandarin013
+    400202: Mandarin014
+    400204: Mandarin015
+    400206: Mandarin016
+    400208: Mandarin017
+    400210: Mandarin018
+    400212: Mandarin019
+    400214: Mandarin020
+    400216: Mandarin021
+    400218: Mandarin022
+    400220: Mandarin023
+    400222: Mandarin024
+    400224: Mandarin025
+    400226: Mandarin026
+    400228: Mandarin027
+    400230: Mandarin028
+    400232: Mandarin029
+    400234: Mandarin030
+    400236: Mandarin031
+    400238: Mandarin032
+    400240: Mandarin033
+    400242: Mandarin034
+    400244: Mandarin035
+    400246: Mandarin036
+    400248: Mandarin037
+    400250: Mandarin038
+    400252: Mandarin039
+    400254: Mandarin040
+    400256: Mandarin041
+    400258: Mandarin042
+    400260: Mandarin043
+    400262: Mandarin044
+    400264: Mandarin045
+    400266: Mandarin046
+    400268: Mandarin047
+    400270: Mandarin048
+    400272: Mandarin049
+    400274: Mandarin050
+    400276: Mandarin051
+    400278: Mandarin052
+    400280: Mandarin053
+    400282: Mandarin054
+    400284: Mandarin055
+    400286: Mandarin056
+    400288: Mandarin057
+    400290: Mandarin058
+    400292: Mandarin059
+    400294: Mandarin060
+    400296: Mandarin061
+    400298: Mandarin062
+    400300: Mandarin063
+    400302: Mandarin064
+    400304: Mandarin065
+    400306: Mandarin066
+    400308: Mandarin067
+    400310: Mandarin068
+    400312: Mandarin069
+    400314: Mandarin070
+    400316: Mandarin071
+    400318: Mandarin072
+    400320: Mandarin073
+    400322: Mandarin074
+    400324: Mandarin075
+    400326: Mandarin076
+    400328: Mandarin077
+    400330: Mandarin078
+    400332: Mandarin079
+    400334: Mandarin080
+    400336: Mandarin081
+    400338: Mandarin082
+    400340: Mandarin083
+    400342: Mandarin084
+    400344: Stillage
+    2300000: Banana
+    2300002: Banana001
+    2300004: Banana002
+    2300006: Banana003
+    2300008: Banana004
+    2300010: Banana005
+    2300012: Banana006
+    2300014: Banana007
+    2300016: Banana008
+    2300018: Banana009
+    2300020: Banana010
+    2300022: Banana011
+    2300024: Banana012
+    2300026: Banana013
+    2300028: Banana014
+    2300030: Banana015
+    2300032: Banana016
+    2300034: Banana017
+    2300036: Banana018
+    2300038: Banana019
+    2300040: Banana020
+    2300042: Banana021
+    2300044: Banana022
+    2300046: Banana023
+    2300048: Banana024
+    2300050: Banana025
+    2300052: Banana026
+    2300054: Banana027
+    2300056: Banana028
+    2300058: Banana029
+    2300060: Banana030
+    2300062: Banana031
+    2300064: Banana032
+    2300066: Banana033
+    2300068: Banana034
+    2300070: Banana035
+    2300072: Basket
+    2300074: Basket 1
+    2300076: Basket 2
+    2300078: Basket 3
+    2300080: Cabbage
+    2300082: Cabbage 1
+    2300084: Cabbage 2
+    2300086: Cabbage 3
+    2300088: Cabbage 4
+    2300090: Cabbage 5
+    2300092: Coconut
+    2300094: Coconut001
+    2300096: Coconut002
+    2300098: Coconut003
+    2300100: Coconut004
+    2300102: Coconut005
+    2300104: Coconut006
+    2300106: Coconut007
+    2300108: Coconut008
+    2300110: Coconut009
+    2300112: Coconut010
+    2300114: Coconut011
+    2300116: Coconut012
+    2300118: Coconut013
+    2300120: Coconut014
+    2300122: Coconut015
+    2300124: Coconut016
+    2300126: Coconut017
+    2300128: Coconut018
+    2300130: Coconut019
+    2300132: Grid
+    2300134: Grid001
+    2300136: Grid002
+    2300138: Grid003
+    2300140: Grid004
+    2300142: Grid005
+    2300144: Grid006
+    2300146: Grid007
+    2300148: Mandarin
+    2300150: Mandarin 1
+    2300152: Mandarin 10
+    2300154: Mandarin 11
+    2300156: Mandarin 2
+    2300158: Mandarin 3
+    2300160: Mandarin 4
+    2300162: Mandarin 5
+    2300164: Mandarin 6
+    2300166: Mandarin 7
+    2300168: Mandarin 8
+    2300170: Mandarin 9
+    2300172: Mandarin001
+    2300174: Mandarin002
+    2300176: Mandarin003
+    2300178: Mandarin004
+    2300180: Mandarin005
+    2300182: Mandarin006
+    2300184: Mandarin007
+    2300186: Mandarin008
+    2300188: Mandarin009
+    2300190: Mandarin010
+    2300192: Mandarin011
+    2300194: Mandarin012
+    2300196: Mandarin013
+    2300198: Mandarin014
+    2300200: Mandarin015
+    2300202: Mandarin016
+    2300204: Mandarin017
+    2300206: Mandarin018
+    2300208: Mandarin019
+    2300210: Mandarin020
+    2300212: Mandarin021
+    2300214: Mandarin022
+    2300216: Mandarin023
+    2300218: Mandarin024
+    2300220: Mandarin025
+    2300222: Mandarin026
+    2300224: Mandarin027
+    2300226: Mandarin028
+    2300228: Mandarin029
+    2300230: Mandarin030
+    2300232: Mandarin031
+    2300234: Mandarin032
+    2300236: Mandarin033
+    2300238: Mandarin034
+    2300240: Mandarin035
+    2300242: Mandarin036
+    2300244: Mandarin037
+    2300246: Mandarin038
+    2300248: Mandarin039
+    2300250: Mandarin040
+    2300252: Mandarin041
+    2300254: Mandarin042
+    2300256: Mandarin043
+    2300258: Mandarin044
+    2300260: Mandarin045
+    2300262: Mandarin046
+    2300264: Mandarin047
+    2300266: Mandarin048
+    2300268: Mandarin049
+    2300270: Mandarin050
+    2300272: Mandarin051
+    2300274: Mandarin052
+    2300276: Mandarin053
+    2300278: Mandarin054
+    2300280: Mandarin055
+    2300282: Mandarin056
+    2300284: Mandarin057
+    2300286: Mandarin058
+    2300288: Mandarin059
+    2300290: Mandarin060
+    2300292: Mandarin061
+    2300294: Mandarin062
+    2300296: Mandarin063
+    2300298: Mandarin064
+    2300300: Mandarin065
+    2300302: Mandarin066
+    2300304: Mandarin067
+    2300306: Mandarin068
+    2300308: Mandarin069
+    2300310: Mandarin070
+    2300312: Mandarin071
+    2300314: Mandarin072
+    2300316: Mandarin073
+    2300318: Mandarin074
+    2300320: Mandarin075
+    2300322: Mandarin076
+    2300324: Mandarin077
+    2300326: Mandarin078
+    2300328: Mandarin079
+    2300330: Mandarin080
+    2300332: Mandarin081
+    2300334: Mandarin082
+    2300336: Mandarin083
+    2300338: Mandarin084
+    2300340: Stillage
+    3300000: Banana
+    3300002: Banana001
+    3300004: Banana002
+    3300006: Banana003
+    3300008: Banana004
+    3300010: Banana005
+    3300012: Banana006
+    3300014: Banana007
+    3300016: Banana008
+    3300018: Banana009
+    3300020: Banana010
+    3300022: Banana011
+    3300024: Banana012
+    3300026: Banana013
+    3300028: Banana014
+    3300030: Banana015
+    3300032: Banana016
+    3300034: Banana017
+    3300036: Banana018
+    3300038: Banana019
+    3300040: Banana020
+    3300042: Banana021
+    3300044: Banana022
+    3300046: Banana023
+    3300048: Banana024
+    3300050: Banana025
+    3300052: Banana026
+    3300054: Banana027
+    3300056: Banana028
+    3300058: Banana029
+    3300060: Banana030
+    3300062: Banana031
+    3300064: Banana032
+    3300066: Banana033
+    3300068: Banana034
+    3300070: Banana035
+    3300072: Basket
+    3300074: Basket 1
+    3300076: Basket 2
+    3300078: Basket 3
+    3300080: Cabbage
+    3300082: Cabbage 1
+    3300084: Cabbage 2
+    3300086: Cabbage 3
+    3300088: Cabbage 4
+    3300090: Cabbage 5
+    3300092: Coconut
+    3300094: Coconut001
+    3300096: Coconut002
+    3300098: Coconut003
+    3300100: Coconut004
+    3300102: Coconut005
+    3300104: Coconut006
+    3300106: Coconut007
+    3300108: Coconut008
+    3300110: Coconut009
+    3300112: Coconut010
+    3300114: Coconut011
+    3300116: Coconut012
+    3300118: Coconut013
+    3300120: Coconut014
+    3300122: Coconut015
+    3300124: Coconut016
+    3300126: Coconut017
+    3300128: Coconut018
+    3300130: Coconut019
+    3300132: Grid
+    3300134: Grid001
+    3300136: Grid002
+    3300138: Grid003
+    3300140: Grid004
+    3300142: Grid005
+    3300144: Grid006
+    3300146: Grid007
+    3300148: Mandarin
+    3300150: Mandarin 1
+    3300152: Mandarin 10
+    3300154: Mandarin 11
+    3300156: Mandarin 2
+    3300158: Mandarin 3
+    3300160: Mandarin 4
+    3300162: Mandarin 5
+    3300164: Mandarin 6
+    3300166: Mandarin 7
+    3300168: Mandarin 8
+    3300170: Mandarin 9
+    3300172: Mandarin001
+    3300174: Mandarin002
+    3300176: Mandarin003
+    3300178: Mandarin004
+    3300180: Mandarin005
+    3300182: Mandarin006
+    3300184: Mandarin007
+    3300186: Mandarin008
+    3300188: Mandarin009
+    3300190: Mandarin010
+    3300192: Mandarin011
+    3300194: Mandarin012
+    3300196: Mandarin013
+    3300198: Mandarin014
+    3300200: Mandarin015
+    3300202: Mandarin016
+    3300204: Mandarin017
+    3300206: Mandarin018
+    3300208: Mandarin019
+    3300210: Mandarin020
+    3300212: Mandarin021
+    3300214: Mandarin022
+    3300216: Mandarin023
+    3300218: Mandarin024
+    3300220: Mandarin025
+    3300222: Mandarin026
+    3300224: Mandarin027
+    3300226: Mandarin028
+    3300228: Mandarin029
+    3300230: Mandarin030
+    3300232: Mandarin031
+    3300234: Mandarin032
+    3300236: Mandarin033
+    3300238: Mandarin034
+    3300240: Mandarin035
+    3300242: Mandarin036
+    3300244: Mandarin037
+    3300246: Mandarin038
+    3300248: Mandarin039
+    3300250: Mandarin040
+    3300252: Mandarin041
+    3300254: Mandarin042
+    3300256: Mandarin043
+    3300258: Mandarin044
+    3300260: Mandarin045
+    3300262: Mandarin046
+    3300264: Mandarin047
+    3300266: Mandarin048
+    3300268: Mandarin049
+    3300270: Mandarin050
+    3300272: Mandarin051
+    3300274: Mandarin052
+    3300276: Mandarin053
+    3300278: Mandarin054
+    3300280: Mandarin055
+    3300282: Mandarin056
+    3300284: Mandarin057
+    3300286: Mandarin058
+    3300288: Mandarin059
+    3300290: Mandarin060
+    3300292: Mandarin061
+    3300294: Mandarin062
+    3300296: Mandarin063
+    3300298: Mandarin064
+    3300300: Mandarin065
+    3300302: Mandarin066
+    3300304: Mandarin067
+    3300306: Mandarin068
+    3300308: Mandarin069
+    3300310: Mandarin070
+    3300312: Mandarin071
+    3300314: Mandarin072
+    3300316: Mandarin073
+    3300318: Mandarin074
+    3300320: Mandarin075
+    3300322: Mandarin076
+    3300324: Mandarin077
+    3300326: Mandarin078
+    3300328: Mandarin079
+    3300330: Mandarin080
+    3300332: Mandarin081
+    3300334: Mandarin082
+    3300336: Mandarin083
+    3300338: Mandarin084
+    3300340: Stillage
+    4300000: Stillage
+    4300002: Banana
+    4300004: Basket
+    4300006: Basket
+    4300008: Basket
+    4300010: Basket
+    4300012: Cabbage
+    4300014: Coconut
+    4300016: Cabbage
+    4300018: Cabbage
+    4300020: Cabbage
+    4300022: Cabbage
+    4300024: Cabbage
+    4300026: Banana001
+    4300028: Banana002
+    4300030: Banana003
+    4300032: Banana004
+    4300034: Banana005
+    4300036: Banana024
+    4300038: Banana025
+    4300040: Banana026
+    4300042: Banana027
+    4300044: Banana028
+    4300046: Banana029
+    4300048: Banana030
+    4300050: Banana031
+    4300052: Banana032
+    4300054: Banana033
+    4300056: Banana034
+    4300058: Banana035
+    4300060: Banana018
+    4300062: Banana019
+    4300064: Banana020
+    4300066: Banana021
+    4300068: Banana022
+    4300070: Banana023
+    4300072: Banana012
+    4300074: Banana013
+    4300076: Banana014
+    4300078: Banana015
+    4300080: Banana016
+    4300082: Banana017
+    4300084: Banana006
+    4300086: Banana007
+    4300088: Banana008
+    4300090: Banana009
+    4300092: Banana010
+    4300094: Banana011
+    4300096: Grid004
+    4300098: Mandarin037
+    4300100: Mandarin038
+    4300102: Mandarin039
+    4300104: Mandarin040
+    4300106: Mandarin041
+    4300108: Mandarin042
+    4300110: Mandarin043
+    4300112: Mandarin044
+    4300114: Mandarin045
+    4300116: Mandarin046
+    4300118: Mandarin047
+    4300120: Mandarin048
+    4300122: Mandarin049
+    4300124: Grid005
+    4300126: Mandarin050
+    4300128: Mandarin051
+    4300130: Mandarin052
+    4300132: Mandarin053
+    4300134: Mandarin054
+    4300136: Mandarin055
+    4300138: Mandarin056
+    4300140: Mandarin057
+    4300142: Mandarin058
+    4300144: Mandarin059
+    4300146: Mandarin060
+    4300148: Grid002
+    4300150: Mandarin013
+    4300152: Mandarin014
+    4300154: Mandarin015
+    4300156: Mandarin016
+    4300158: Mandarin017
+    4300160: Mandarin018
+    4300162: Mandarin019
+    4300164: Mandarin020
+    4300166: Mandarin021
+    4300168: Mandarin022
+    4300170: Mandarin023
+    4300172: Mandarin024
+    4300174: Grid003
+    4300176: Mandarin025
+    4300178: Mandarin026
+    4300180: Mandarin027
+    4300182: Mandarin028
+    4300184: Mandarin029
+    4300186: Mandarin030
+    4300188: Mandarin031
+    4300190: Mandarin032
+    4300192: Mandarin033
+    4300194: Mandarin034
+    4300196: Mandarin035
+    4300198: Mandarin036
+    4300200: Grid
+    4300202: Mandarin
+    4300204: Mandarin
+    4300206: Mandarin
+    4300208: Mandarin
+    4300210: Mandarin
+    4300212: Mandarin
+    4300214: Mandarin
+    4300216: Mandarin
+    4300218: Mandarin
+    4300220: Mandarin
+    4300222: Mandarin
+    4300224: Mandarin
+    4300226: Mandarin001
+    4300228: Mandarin003
+    4300230: Mandarin004
+    4300232: Grid001
+    4300234: Mandarin002
+    4300236: Mandarin005
+    4300238: Mandarin007
+    4300240: Mandarin008
+    4300242: Mandarin009
+    4300244: Mandarin010
+    4300246: Mandarin011
+    4300248: Mandarin012
+    4300250: Mandarin006
+    4300252: Grid007
+    4300254: Mandarin073
+    4300256: Mandarin074
+    4300258: Mandarin075
+    4300260: Mandarin076
+    4300262: Mandarin077
+    4300264: Mandarin078
+    4300266: Mandarin079
+    4300268: Mandarin080
+    4300270: Mandarin081
+    4300272: Mandarin082
+    4300274: Mandarin083
+    4300276: Mandarin084
+    4300278: Mandarin061
+    4300280: Mandarin062
+    4300282: Mandarin063
+    4300284: Grid006
+    4300286: Mandarin064
+    4300288: Mandarin065
+    4300290: Mandarin066
+    4300292: Mandarin067
+    4300294: Mandarin068
+    4300296: Mandarin069
+    4300298: Mandarin070
+    4300300: Mandarin071
+    4300302: Mandarin072
+    4300304: Coconut001
+    4300306: Coconut002
+    4300308: Coconut003
+    4300310: Coconut004
+    4300312: Coconut005
+    4300314: Coconut006
+    4300316: Coconut007
+    4300318: Coconut008
+    4300320: Coconut009
+    4300322: Coconut010
+    4300324: Coconut011
+    4300326: Coconut012
+    4300328: Coconut013
+    4300330: Coconut014
+    4300332: Coconut015
+    4300334: Coconut016
+    4300336: Coconut017
+    4300338: Coconut018
+    4300340: Coconut019
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -20,10 +20,11 @@ GameObject:
   m_Component:
   - component: {fileID: 4349078216575298}
   - component: {fileID: 33490240702917968}
-  - component: {fileID: 65936831850251184}
   - component: {fileID: 23005793158533474}
-  - component: {fileID: 135257118457083812}
-  - component: {fileID: 114785596528444506}
+  - component: {fileID: 54181283408924218}
+  - component: {fileID: 135339327539001052}
+  - component: {fileID: 114241059169803496}
+  - component: {fileID: 65989266661017652}
   m_Layer: 0
   m_Name: PickUp
   m_TagString: PickUp
@@ -38,7 +39,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1521574689682822}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.73, y: 0.31, z: 3.86}
+  m_LocalPosition: {x: 19.08, y: 1.57, z: -3.47}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -58,7 +59,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 40a3394db3145594c822bef60c53fbf4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,8 +85,23 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1521574689682822}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!65 &65936831850251184
+  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!54 &54181283408924218
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521574689682822}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 2
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &65989266661017652
 BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -97,7 +113,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &114785596528444506
+--- !u!114 &114241059169803496
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -108,10 +124,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9c7fb5064ac56c47b9342b000027c2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resitance_to_pick_: 0
+  resitance_to_pick_: 1
   is_picked_up_: 0
+  is_being_checkout: 0
   is_objective_: 1
---- !u!135 &135257118457083812
+--- !u!135 &135339327539001052
 SphereCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -121,5 +138,5 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 2.95
+  m_Radius: 3.2
   m_Center: {x: 0, y: 0, z: 0}
